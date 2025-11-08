@@ -543,6 +543,76 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 88.9 92.71) (xy 60.96 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41585655-7812-40c2-8a0b-bbbce83eb576")
+	)
+	(wire
+		(pts
+			(xy 83.82 74.93) (xy 88.9 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5adc82bd-09ae-477b-8c57-111f472db9cb")
+	)
+	(wire
+		(pts
+			(xy 88.9 74.93) (xy 88.9 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d8cbe62-c050-4ebf-9d18-7c8c3bf5f613")
+	)
+	(wire
+		(pts
+			(xy 60.96 78.74) (xy 60.96 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a44c40cc-f5e8-42cd-90ef-90d30adf6994")
+	)
+	(wire
+		(pts
+			(xy 72.39 74.93) (xy 76.2 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da06481a-41ec-4dee-8313-6e39cbf789bf")
+	)
+	(wire
+		(pts
+			(xy 60.96 92.71) (xy 60.96 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8614753-f2b5-49eb-addf-83a8e0fb2228")
+	)
+	(wire
+		(pts
+			(xy 60.96 74.93) (xy 64.77 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f79b2130-ac4e-4a78-a21f-125182ddafe1")
+	)
 	(symbol
 		(lib_id "Device:LED")
 		(at 68.58 74.93 180)
