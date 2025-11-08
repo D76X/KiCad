@@ -827,6 +827,76 @@
 			)
 		)
 	)
+	(symbol
+		(lib_id "Device:R")
+		(at 90.17 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9fdc7d4-1632-48d5-9682-381424f827ea")
+		(property "Reference" "R2"
+			(at 92.71 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 92.71 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.392 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 90.17 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b2b961c-373c-4f6a-a5ad-82ffb30a6c79")
+		)
+		(pin "2"
+			(uuid "027dbb68-80b2-4d5c-ac7a-e9da69ea4611")
+		)
+		(instances
+			(project ""
+				(path "/8ae59741-537a-42c7-8cdd-92d8d9dc48c6"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
