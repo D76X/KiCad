@@ -621,18 +621,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "18096875-9d01-44a2-9629-c51d8b23dcc1")
 		(property "Reference" "D1"
-			(at 70.1675 67.31 0)
+			(at 68.58 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 70.1675 69.85 0)
+		(property "Value" "LED Rot 3 mm"
+			(at 68.326 70.866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -700,7 +699,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68e79d2b-97c3-48ae-beda-af7df68a5b95")
-		(property "Reference" "BT1"
+		(property "Reference" "Batterie"
 			(at 64.77 81.9784 0)
 			(effects
 				(font
@@ -709,7 +708,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery"
+		(property "Value" "9 V"
 			(at 64.77 84.5184 0)
 			(effects
 				(font
@@ -754,7 +753,7 @@
 		(instances
 			(project ""
 				(path "/8ae59741-537a-42c7-8cdd-92d8d9dc48c6"
-					(reference "BT1")
+					(reference "Batterie")
 					(unit 1)
 				)
 			)
@@ -778,7 +777,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "220"
 			(at 80.01 71.12 90)
 			(effects
 				(font
