@@ -2870,7 +2870,7 @@
 				)
 			)
 		)
-		(property "Value" "1825910-6"
+		(property "Value" "Reset"
 			(at 147.32 26.67 0)
 			(effects
 				(font
@@ -3020,7 +3020,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 29.21 172.72 0)
+		(at 190.5 22.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3029,25 +3029,23 @@
 		(fields_autoplaced yes)
 		(uuid "15a30780-1b9f-40fe-8f1d-8ffb3ccfb305")
 		(property "Reference" "C2"
-			(at 33.02 171.4499 0)
+			(at 190.5 15.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "C"
-			(at 33.02 173.9899 0)
+			(at 190.5 17.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 30.1752 176.53 0)
+			(at 194.31 21.8948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3056,7 +3054,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 29.21 172.72 0)
+			(at 190.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3065,7 +3063,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 29.21 172.72 0)
+			(at 190.5 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3090,7 +3088,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 100.33 91.44 0)
+		(at 97.79 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3098,7 +3096,7 @@
 		(dnp no)
 		(uuid "18b55c66-a685-4684-bd88-53d0540ceb4b")
 		(property "Reference" "J3"
-			(at 97.282 91.44 0)
+			(at 94.742 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3106,7 +3104,7 @@
 			)
 		)
 		(property "Value" "Arduino A0 - A5"
-			(at 100.33 81.534 0)
+			(at 97.79 68.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3114,7 +3112,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 91.44 0)
+			(at 97.79 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3123,7 +3121,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 91.44 0)
+			(at 97.79 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3132,7 +3130,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 100.33 91.44 0)
+			(at 97.79 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3169,7 +3167,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 128.27 175.26 0)
+		(at 96.52 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3178,7 +3176,7 @@
 		(fields_autoplaced yes)
 		(uuid "37c89161-de16-4a6a-867c-d14c097dc5dc")
 		(property "Reference" "J6"
-			(at 128.905 165.1 0)
+			(at 97.155 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3186,7 +3184,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06_Pin"
-			(at 128.905 167.64 0)
+			(at 97.155 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3194,7 +3192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 175.26 0)
+			(at 96.52 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3203,7 +3201,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 128.27 175.26 0)
+			(at 96.52 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3212,7 +3210,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 128.27 175.26 0)
+			(at 96.52 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3249,7 +3247,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 21.59 187.96 0)
+		(at 182.88 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3258,7 +3256,7 @@
 		(fields_autoplaced yes)
 		(uuid "48ba3bf9-008b-4ae0-9be0-846c2fcd65c9")
 		(property "Reference" "D1"
-			(at 20.0025 181.61 0)
+			(at 184.4675 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3266,7 +3264,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 20.0025 184.15 0)
+			(at 184.4675 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3274,7 +3272,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 21.59 187.96 0)
+			(at 182.88 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3283,7 +3281,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 21.59 187.96 0)
+			(at 182.88 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3292,7 +3290,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 21.59 187.96 0)
+			(at 182.88 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3301,7 +3299,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 21.59 187.96 0)
+			(at 182.88 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3326,7 +3324,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 100.33 114.3 0)
+		(at 99.06 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3334,7 +3332,7 @@
 		(dnp no)
 		(uuid "48f0d57b-04cc-4d7b-a007-036843597132")
 		(property "Reference" "J4"
-			(at 98.298 114.046 0)
+			(at 97.028 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3342,7 +3340,7 @@
 			)
 		)
 		(property "Value" "Power & Ground Terminal"
-			(at 100.33 105.664 0)
+			(at 99.06 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3350,7 +3348,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 114.3 0)
+			(at 99.06 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3359,7 +3357,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 114.3 0)
+			(at 99.06 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3368,7 +3366,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 100.33 114.3 0)
+			(at 99.06 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3405,7 +3403,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Pin")
-		(at 100.33 66.04 0)
+		(at 97.79 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3413,7 +3411,7 @@
 		(dnp no)
 		(uuid "4e52e09a-dc0f-475f-91f7-b4876f7b3beb")
 		(property "Reference" "J2"
-			(at 96.012 66.04 0)
+			(at 93.472 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3421,7 +3419,7 @@
 			)
 		)
 		(property "Value" "Arduino PIN0 - PIN7"
-			(at 100.33 54.864 0)
+			(at 97.79 42.164 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3429,7 +3427,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 66.04 0)
+			(at 97.79 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3438,7 +3436,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 66.04 0)
+			(at 97.79 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3447,7 +3445,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
-			(at 100.33 66.04 0)
+			(at 97.79 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3630,7 +3628,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 40.64 172.72 0)
+		(at 161.29 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3639,7 +3637,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b31ced1-4e8a-458c-bf4e-a3ddeded1e30")
 		(property "Reference" "C3"
-			(at 44.45 171.4499 0)
+			(at 165.1 25.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3648,7 +3646,7 @@
 			)
 		)
 		(property "Value" "C"
-			(at 44.45 173.9899 0)
+			(at 165.1 27.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3657,7 +3655,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.6052 176.53 0)
+			(at 162.2552 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3666,7 +3664,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 40.64 172.72 0)
+			(at 161.29 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3675,7 +3673,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 40.64 172.72 0)
+			(at 161.29 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3940,7 +3938,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x05_Pin")
-		(at 99.06 43.18 0)
+		(at 96.52 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3948,7 +3946,7 @@
 		(dnp no)
 		(uuid "a2464f94-60ef-43aa-8866-af4c7a864cfb")
 		(property "Reference" "J1"
-			(at 96.012 43.18 0)
+			(at 93.472 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,7 +3954,7 @@
 			)
 		)
 		(property "Value" "FTDI Programmer"
-			(at 101.346 33.274 0)
+			(at 98.806 20.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3964,7 +3962,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 43.18 0)
+			(at 96.52 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +3971,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 43.18 0)
+			(at 96.52 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +3980,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
-			(at 99.06 43.18 0)
+			(at 96.52 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4016,7 +4014,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 82.55 157.48 0)
+		(at 168.91 113.03 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4025,25 +4023,25 @@
 		(fields_autoplaced yes)
 		(uuid "b3962859-5608-4785-bbd2-561820a1b159")
 		(property "Reference" "R3"
-			(at 85.09 156.2099 0)
+			(at 171.45 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "R"
-			(at 85.09 158.7499 0)
+			(at 171.45 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 80.772 157.48 90)
+			(at 170.688 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4052,7 +4050,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 157.48 0)
+			(at 168.91 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4061,7 +4059,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 82.55 157.48 0)
+			(at 168.91 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4170,7 +4168,7 @@
 				)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x02"
+		(property "Value" "Versorgungsspannung"
 			(at 134.62 90.17 0)
 			(effects
 				(font
@@ -4221,148 +4219,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 69.85 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d6e438ac-dedc-4ead-abad-a1bb28b38e0d")
-		(property "Reference" "R2"
-			(at 72.39 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 72.39 158.7499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 68.072 157.48 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 69.85 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 69.85 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5cbe84af-dbc0-4472-9ff6-dddc2ef09892")
-		)
-		(pin "2"
-			(uuid "9dd3599a-2aa8-4a65-a7cf-c58a5f5d698d")
-		)
-		(instances
-			(project ""
-				(path "/04eaaa8e-012c-4947-8e3b-79fe45bf2789"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 57.15 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ea86dfe1-b78f-4783-b489-23ee4fb1e979")
-		(property "Reference" "R1"
-			(at 59.69 156.2099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R"
-			(at 59.69 158.7499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.372 157.48 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 57.15 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 57.15 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5cbe84af-dbc0-4472-9ff6-dddc2ef09893")
-		)
-		(pin "2"
-			(uuid "9dd3599a-2aa8-4a65-a7cf-c58a5f5d698e")
-		)
-		(instances
-			(project ""
-				(path "/04eaaa8e-012c-4947-8e3b-79fe45bf2789"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
-		(at 19.05 172.72 0)
+		(at 147.32 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4371,25 +4229,23 @@
 		(fields_autoplaced yes)
 		(uuid "fc0f99f6-52c7-4090-8b0a-d0e7eb037727")
 		(property "Reference" "C1"
-			(at 22.86 171.4499 0)
+			(at 147.32 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "C"
-			(at 22.86 173.9899 0)
+			(at 147.32 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 20.0152 176.53 0)
+			(at 151.13 73.9648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4398,7 +4254,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 19.05 172.72 0)
+			(at 147.32 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4407,7 +4263,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 19.05 172.72 0)
+			(at 147.32 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
