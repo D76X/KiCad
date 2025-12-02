@@ -2862,9 +2862,39 @@
 		)
 		(uuid "0ac44302-7397-4c98-99cb-55789d88ddb4")
 	)
+	(text "DTR"
+		(exclude_from_sim no)
+		(at 89.408 54.864 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2cec985c-47f2-49c1-b30c-448c59e8c74f")
+	)
+	(text "GND"
+		(exclude_from_sim no)
+		(at 89.408 57.404 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6195bbea-35c3-4d8c-89d4-94dfce40fe31")
+	)
+	(text "TX"
+		(exclude_from_sim no)
+		(at 89.662 52.324 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "83e30259-d7a5-4ae8-af13-15d5d6bf2777")
+	)
 	(text "5 V"
 		(exclude_from_sim no)
-		(at 89.662 46.99 0)
+		(at 89.154 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
