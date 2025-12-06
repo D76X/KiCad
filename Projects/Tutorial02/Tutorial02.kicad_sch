@@ -2854,7 +2854,7 @@
 	)
 	(text "RX"
 		(exclude_from_sim no)
-		(at 89.408 49.53 0)
+		(at 90.678 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2862,9 +2862,19 @@
 		)
 		(uuid "0ac44302-7397-4c98-99cb-55789d88ddb4")
 	)
+	(text "GND"
+		(exclude_from_sim no)
+		(at 92.202 156.464 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0bec207c-dadd-45ad-bfd8-f6e3b2400bec")
+	)
 	(text "DTR"
 		(exclude_from_sim no)
-		(at 89.408 54.864 0)
+		(at 90.678 53.594 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2872,9 +2882,49 @@
 		)
 		(uuid "2cec985c-47f2-49c1-b30c-448c59e8c74f")
 	)
+	(text "Arduino PIN A0\n"
+		(exclude_from_sim no)
+		(at 87.376 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "394337ae-a691-4408-a0f3-2b62f1a24417")
+	)
+	(text "Arduino PIN A5\n"
+		(exclude_from_sim no)
+		(at 87.376 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "39d7a802-4cfa-4ef6-8fb4-ff5088d126af")
+	)
+	(text "Arduino PIN A4\n"
+		(exclude_from_sim no)
+		(at 87.376 119.634 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "574297e6-d575-4735-9cfa-b33dd49b305e")
+	)
+	(text "Arduino PIN A2\n"
+		(exclude_from_sim no)
+		(at 87.376 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "57b0d2b0-fb2e-49db-a055-c838c60ee583")
+	)
 	(text "GND"
 		(exclude_from_sim no)
-		(at 89.408 57.404 0)
+		(at 90.932 56.134 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2884,7 +2934,7 @@
 	)
 	(text "TX"
 		(exclude_from_sim no)
-		(at 89.662 52.324 0)
+		(at 90.932 51.054 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2892,15 +2942,55 @@
 		)
 		(uuid "83e30259-d7a5-4ae8-af13-15d5d6bf2777")
 	)
+	(text "GND"
+		(exclude_from_sim no)
+		(at 92.202 153.924 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "891bb5f3-ee49-4319-9d52-f5c82e17f69b")
+	)
+	(text "Arduino PIN A3\n"
+		(exclude_from_sim no)
+		(at 87.376 122.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a7ad0244-6e0e-49b2-81e2-b3314766019e")
+	)
+	(text "GND"
+		(exclude_from_sim no)
+		(at 92.202 151.384 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ade6982f-9438-4367-9f7d-315017f3dc75")
+	)
 	(text "5 V"
 		(exclude_from_sim no)
-		(at 89.154 46.99 0)
+		(at 90.424 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "e26f3f0f-755e-4a83-b7b3-b0148031f343")
+	)
+	(text "Arduino PIN A1\n"
+		(exclude_from_sim no)
+		(at 87.376 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eb8984e9-9d39-452a-9d5a-bda0a3651357")
 	)
 	(symbol
 		(lib_id "dk_Tactile-Switches:1825910-6")
@@ -3139,6 +3229,7 @@
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
 		(at 95.25 124.46 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3146,7 +3237,7 @@
 		(dnp no)
 		(uuid "18b55c66-a685-4684-bd88-53d0540ceb4b")
 		(property "Reference" "J3"
-			(at 85.09 114.3 0)
+			(at 85.09 112.522 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3154,7 +3245,7 @@
 			)
 		)
 		(property "Value" "Arduino A0 - A5"
-			(at 95.25 114.554 0)
+			(at 95.25 112.268 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3226,7 +3317,7 @@
 		(dnp no)
 		(uuid "37c89161-de16-4a6a-867c-d14c097dc5dc")
 		(property "Reference" "J6"
-			(at 86.106 88.138 0)
+			(at 82.042 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3234,7 +3325,7 @@
 			)
 		)
 		(property "Value" "Arduino PIN8 - PIN13"
-			(at 99.314 88.138 0)
+			(at 95.25 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3375,6 +3466,7 @@
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
 		(at 95.25 151.13 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3382,7 +3474,7 @@
 		(dnp no)
 		(uuid "48f0d57b-04cc-4d7b-a007-036843597132")
 		(property "Reference" "J4"
-			(at 84.836 140.97 0)
+			(at 81.026 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3390,7 +3482,7 @@
 			)
 		)
 		(property "Value" "Power & Ground Terminal"
-			(at 99.06 140.97 0)
+			(at 95.25 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,7 +3554,7 @@
 		(dnp no)
 		(uuid "4e52e09a-dc0f-475f-91f7-b4876f7b3beb")
 		(property "Reference" "J2"
-			(at 86.868 61.214 0)
+			(at 81.28 61.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,7 +3562,7 @@
 			)
 		)
 		(property "Value" "Arduino PIN0 - PIN7"
-			(at 99.314 60.96 0)
+			(at 93.726 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3989,7 +4081,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x05_Pin")
-		(at 92.71 52.07 0)
+		(at 93.98 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3997,7 +4089,7 @@
 		(dnp no)
 		(uuid "a2464f94-60ef-43aa-8866-af4c7a864cfb")
 		(property "Reference" "J1"
-			(at 85.09 42.164 0)
+			(at 84.074 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4005,7 +4097,7 @@
 			)
 		)
 		(property "Value" "FTDI Programmer"
-			(at 94.996 42.164 0)
+			(at 93.98 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4013,7 +4105,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 92.71 52.07 0)
+			(at 93.98 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4022,7 +4114,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 52.07 0)
+			(at 93.98 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4031,7 +4123,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
-			(at 92.71 52.07 0)
+			(at 93.98 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
