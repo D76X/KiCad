@@ -2852,6 +2852,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 87.122 103.124 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0a8af869-2a02-41cc-a035-98b67c689c4d")
+	)
 	(text "RX"
 		(exclude_from_sim no)
 		(at 90.678 48.26 0)
@@ -2872,6 +2882,36 @@
 		)
 		(uuid "0bec207c-dadd-45ad-bfd8-f6e3b2400bec")
 	)
+	(text "5 V\n"
+		(exclude_from_sim no)
+		(at 92.202 146.304 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "168b049e-1fe4-41c9-b6a4-68b8bf46009f")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 87.122 95.504 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b0798da-6df2-47b0-b965-fe59923296d7")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 72.644 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "28f17692-2392-4a99-8843-366ae9f536a0")
+	)
 	(text "DTR"
 		(exclude_from_sim no)
 		(at 90.678 53.594 0)
@@ -2881,6 +2921,16 @@
 			)
 		)
 		(uuid "2cec985c-47f2-49c1-b30c-448c59e8c74f")
+	)
+	(text "5 V\n"
+		(exclude_from_sim no)
+		(at 92.202 148.844 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2e3d3b4a-09ab-4b49-91cd-4a79d8d58734")
 	)
 	(text "Arduino PIN A0\n"
 		(exclude_from_sim no)
@@ -2901,6 +2951,16 @@
 			)
 		)
 		(uuid "39d7a802-4cfa-4ef6-8fb4-ff5088d126af")
+	)
+	(text "5 V\n"
+		(exclude_from_sim no)
+		(at 92.202 143.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3e7d99e0-ee66-4f79-bf11-e7de56219cdc")
 	)
 	(text "Arduino PIN A4\n"
 		(exclude_from_sim no)
@@ -2932,6 +2992,26 @@
 		)
 		(uuid "6195bbea-35c3-4d8c-89d4-94dfce40fe31")
 	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 87.122 100.584 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "66a92dbb-da3e-4924-a4fc-d8b603c3a4a6")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 80.264 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6c0492d3-4727-486d-af6c-c59c136cd837")
+	)
 	(text "TX"
 		(exclude_from_sim no)
 		(at 90.932 51.054 0)
@@ -2942,6 +3022,16 @@
 		)
 		(uuid "83e30259-d7a5-4ae8-af13-15d5d6bf2777")
 	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 65.024 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "851295f6-2d08-4b51-9052-130b888a8e09")
+	)
 	(text "GND"
 		(exclude_from_sim no)
 		(at 92.202 153.924 0)
@@ -2951,6 +3041,36 @@
 			)
 		)
 		(uuid "891bb5f3-ee49-4319-9d52-f5c82e17f69b")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9aa1e104-5e20-4252-b830-71eec63694a3")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 87.122 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9e75d70f-0d10-4a5b-a79e-81041546a52b")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 87.122 92.964 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a0bd0310-191c-4dc6-8a58-845b3e5cb768")
 	)
 	(text "Arduino PIN A3\n"
 		(exclude_from_sim no)
@@ -2972,6 +3092,46 @@
 		)
 		(uuid "ade6982f-9438-4367-9f7d-315017f3dc75")
 	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 70.104 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ae3e2a1d-f491-41b4-88c8-f04f34c930f4")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 87.122 105.664 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ae77e403-113e-40c5-bd9b-290648f1fc9f")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b88a5b02-0863-4d39-8798-be38cb31eb93")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 82.804 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c6c56071-4d2b-4f7f-bee6-67790301d522")
+	)
 	(text "5 V"
 		(exclude_from_sim no)
 		(at 90.424 45.72 0)
@@ -2981,6 +3141,16 @@
 			)
 		)
 		(uuid "e26f3f0f-755e-4a83-b7b3-b0148031f343")
+	)
+	(text "Arduino PIN 0\n"
+		(exclude_from_sim no)
+		(at 85.852 67.564 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e4daae63-f913-43e7-9368-581dd904a733")
 	)
 	(text "Arduino PIN A1\n"
 		(exclude_from_sim no)
