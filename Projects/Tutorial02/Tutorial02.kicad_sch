@@ -2852,9 +2852,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 9\n"
 		(exclude_from_sim no)
-		(at 87.122 103.124 0)
+		(at 86.614 103.124 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2892,7 +2892,7 @@
 		)
 		(uuid "168b049e-1fe4-41c9-b6a4-68b8bf46009f")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 12\n"
 		(exclude_from_sim no)
 		(at 87.122 95.504 0)
 		(effects
@@ -2902,7 +2902,7 @@
 		)
 		(uuid "1b0798da-6df2-47b0-b965-fe59923296d7")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 4\n"
 		(exclude_from_sim no)
 		(at 85.852 72.644 0)
 		(effects
@@ -2992,7 +2992,7 @@
 		)
 		(uuid "6195bbea-35c3-4d8c-89d4-94dfce40fe31")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 10\n"
 		(exclude_from_sim no)
 		(at 87.122 100.584 0)
 		(effects
@@ -3002,7 +3002,7 @@
 		)
 		(uuid "66a92dbb-da3e-4924-a4fc-d8b603c3a4a6")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 1\n"
 		(exclude_from_sim no)
 		(at 85.852 80.264 0)
 		(effects
@@ -3022,7 +3022,7 @@
 		)
 		(uuid "83e30259-d7a5-4ae8-af13-15d5d6bf2777")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 7\n"
 		(exclude_from_sim no)
 		(at 85.852 65.024 0)
 		(effects
@@ -3042,7 +3042,7 @@
 		)
 		(uuid "891bb5f3-ee49-4319-9d52-f5c82e17f69b")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 2"
 		(exclude_from_sim no)
 		(at 85.852 77.47 0)
 		(effects
@@ -3052,7 +3052,7 @@
 		)
 		(uuid "9aa1e104-5e20-4252-b830-71eec63694a3")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 11\n"
 		(exclude_from_sim no)
 		(at 87.122 98.044 0)
 		(effects
@@ -3062,7 +3062,7 @@
 		)
 		(uuid "9e75d70f-0d10-4a5b-a79e-81041546a52b")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 13\n"
 		(exclude_from_sim no)
 		(at 87.122 92.964 0)
 		(effects
@@ -3092,7 +3092,7 @@
 		)
 		(uuid "ade6982f-9438-4367-9f7d-315017f3dc75")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 5\n"
 		(exclude_from_sim no)
 		(at 85.852 70.104 0)
 		(effects
@@ -3102,9 +3102,9 @@
 		)
 		(uuid "ae3e2a1d-f491-41b4-88c8-f04f34c930f4")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 8\n"
 		(exclude_from_sim no)
-		(at 87.122 105.664 0)
+		(at 86.614 105.664 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3112,7 +3112,7 @@
 		)
 		(uuid "ae77e403-113e-40c5-bd9b-290648f1fc9f")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 3\n"
 		(exclude_from_sim no)
 		(at 85.852 74.93 0)
 		(effects
@@ -3142,7 +3142,7 @@
 		)
 		(uuid "e26f3f0f-755e-4a83-b7b3-b0148031f343")
 	)
-	(text "Arduino PIN 0\n"
+	(text "Arduino PIN 6\n"
 		(exclude_from_sim no)
 		(at 85.852 67.564 0)
 		(effects
