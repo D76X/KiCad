@@ -7339,7 +7339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-28_W7.62mm"
 			(at 198.12 86.36 0)
 			(effects
 				(font
@@ -7925,7 +7925,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC52-6mm_Vertical"
 			(at 158.75 80.01 0)
 			(effects
 				(font
