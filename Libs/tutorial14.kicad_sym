@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31,7 +31,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://it.wikipedia.org/wiki/Texas_Instruments_SN76489"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40,7 +40,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Sound Generator"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51,8 +51,8 @@
 		)
 		(symbol "SN76489AN_1_1"
 			(rectangle
-				(start -12.7 6.35)
-				(end 10.16 -25.4)
+				(start -6.35 6.35)
+				(end 6.35 -25.4)
 				(stroke
 					(width 0)
 					(type default)
@@ -62,7 +62,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 2.54 0)
+				(at -8.89 2.54 0)
 				(length 2.54)
 				(name "D2"
 					(effects
@@ -80,7 +80,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 0 0)
+				(at -8.89 0 0)
 				(length 2.54)
 				(name "D1"
 					(effects
@@ -98,7 +98,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -2.54 0)
+				(at -8.89 -2.54 0)
 				(length 2.54)
 				(name "DO_(MSB)"
 					(effects
@@ -116,7 +116,7 @@
 				)
 			)
 			(pin input inverted
-				(at -15.24 -5.08 0)
+				(at -8.89 -5.08 0)
 				(length 2.54)
 				(name "~{WE}"
 					(effects
@@ -134,7 +134,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -7.62 0)
+				(at -8.89 -7.62 0)
 				(length 2.54)
 				(name "~{CE}"
 					(effects
@@ -152,7 +152,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -10.16 0)
+				(at -8.89 -10.16 0)
 				(length 2.54)
 				(name "D7"
 					(effects
@@ -170,7 +170,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -12.7 0)
+				(at -8.89 -12.7 0)
 				(length 2.54)
 				(name "D6"
 					(effects
@@ -188,7 +188,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -15.24 0)
+				(at -8.89 -15.24 0)
 				(length 2.54)
 				(name "D5"
 					(effects
@@ -206,7 +206,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -17.78 0)
+				(at -8.89 -17.78 0)
 				(length 2.54)
 				(name "D4"
 					(effects
@@ -224,7 +224,7 @@
 				)
 			)
 			(pin input clock
-				(at -15.24 -20.32 0)
+				(at -8.89 -20.32 0)
 				(length 2.54)
 				(name "Clock"
 					(effects
@@ -242,7 +242,7 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -22.86 0)
+				(at -8.89 -22.86 0)
 				(length 2.54)
 				(name "D3"
 					(effects
@@ -260,7 +260,7 @@
 				)
 			)
 			(pin input line
-				(at -1.27 7.62 90)
+				(at 0 7.62 90)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -278,7 +278,7 @@
 				)
 			)
 			(pin output line
-				(at -1.27 -30.48 90)
+				(at 0 -30.48 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -296,7 +296,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 2.54 180)
+				(at 8.89 -17.78 180)
 				(length 2.54)
 				(name "Ready"
 					(effects
@@ -314,7 +314,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 0 180)
+				(at 8.89 -20.32 180)
 				(length 2.54)
 				(name "Aout"
 					(effects
@@ -332,7 +332,7 @@
 				)
 			)
 			(pin no_connect line
-				(at 12.7 -17.78 180)
+				(at 8.89 -22.86 180)
 				(length 2.54)
 				(name "N.C."
 					(effects
