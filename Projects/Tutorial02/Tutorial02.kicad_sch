@@ -1843,6 +1843,156 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Switch:SW_Push"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 1.27 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SW_Push"
+				(at 0 -1.524 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Push button switch, generic, two pins"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_Push_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "dk_Embedded-Microcontrollers:ATMEGA328P-PU"
 			(pin_names
 				(offset 1.016)
@@ -2516,341 +2666,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "dk_Tactile-Switches:1825910-6"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at 0 4.572 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "1825910-6"
-				(at 0.127 -5.08 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "digikey-footprints:Switch_Tactile_THT_6x6mm"
-				(at 5.08 5.08 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English"
-				(at 5.08 7.62 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digi-Key_PN" "450-1650-ND"
-				(at 5.08 10.16 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "MPN" "1825910-6"
-				(at 5.08 12.7 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Category" "Switches"
-				(at 5.08 15.24 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Family" "Tactile Switches"
-				(at 5.08 17.78 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "DK_Datasheet_Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English"
-				(at 5.08 20.32 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "DK_Detail_Page" "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536"
-				(at 5.08 22.86 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "SWITCH TACTILE SPST-NO 0.05A 24V"
-				(at 5.08 25.4 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "TE Connectivity ALCOSWITCH Switches"
-				(at 5.08 27.94 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Status" "Active"
-				(at 5.08 30.48 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "450-1650-ND FSMJ"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "1825910-6_0_1"
-				(polyline
-					(pts
-						(xy -2.54 2.54) (xy -2.54 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 1.27) (xy 1.778 1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -1.524 0)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 1.524 0)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 1.778 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "1825910-6_1_1"
-				(polyline
-					(pts
-						(xy -1.016 2.794) (xy 0.889 2.794)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.794) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers
@@ -3502,12 +3317,6 @@
 		(uuid "1a4c352d-cf5b-4eb0-abfe-0cc24bbe97ad")
 	)
 	(junction
-		(at 138.43 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d6dc137-7fc1-46c1-b50b-45a74c432695")
-	)
-	(junction
 		(at 105.41 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3532,10 +3341,10 @@
 		(uuid "909022a3-d2a1-4af5-983c-511fadafb6f3")
 	)
 	(junction
-		(at 125.73 53.34)
+		(at 170.18 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "94387f0c-b4b1-4808-9563-0d5d9b5b1da7")
+		(uuid "91bd0b8d-a757-47c4-a208-263a202ae7e9")
 	)
 	(junction
 		(at 158.75 85.09)
@@ -3544,16 +3353,10 @@
 		(uuid "b14b3e76-6537-4793-931d-62446b56052a")
 	)
 	(junction
-		(at 143.51 53.34)
+		(at 157.48 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd46eb00-9ace-4c5f-a944-b794ff023c0d")
-	)
-	(junction
-		(at 156.21 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd4c2a47-1103-4f96-af0a-7dbba2eeaf73")
 	)
 	(junction
 		(at 105.41 144.78)
@@ -3563,7 +3366,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 46.99) (xy 143.51 53.34)
+			(xy 157.48 45.72) (xy 157.48 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3593,7 +3396,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 35.56) (xy 143.51 39.37)
+			(xy 157.48 34.29) (xy 157.48 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3623,17 +3426,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 53.34) (xy 125.73 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d9cdc2d-139e-4f57-bdd0-4ed5c293fdfb")
-	)
-	(wire
-		(pts
-			(xy 143.51 53.34) (xy 138.43 53.34)
+			(xy 149.86 52.07) (xy 157.48 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3663,16 +3456,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 50.8) (xy 137.16 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1bc53fd5-3202-4bb0-ab77-91ef663b23e8")
-	)
-	(wire
-		(pts
 			(xy 194.31 132.08) (xy 193.04 132.08)
 		)
 		(stroke
@@ -3690,6 +3473,16 @@
 			(type default)
 		)
 		(uuid "1e609ee4-b1e6-4b47-ab1d-39ea0781a835")
+	)
+	(wire
+		(pts
+			(xy 134.62 52.07) (xy 139.7 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ed2a98c-efeb-4363-add3-635f02de23db")
 	)
 	(wire
 		(pts
@@ -3753,23 +3546,13 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 53.34) (xy 143.51 53.34)
+			(xy 170.18 52.07) (xy 157.48 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "304149ed-b926-49ac-a7b5-b05cd3e5d642")
-	)
-	(wire
-		(pts
-			(xy 176.53 63.5) (xy 180.34 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31b08ad1-314d-4d31-b566-1bd0d2c65795")
 	)
 	(wire
 		(pts
@@ -3780,16 +3563,6 @@
 			(type default)
 		)
 		(uuid "35608772-67dc-4848-937c-c6e44e08acd6")
-	)
-	(wire
-		(pts
-			(xy 125.73 50.8) (xy 127 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a03931f-f9dd-438a-92ba-82854e203637")
 	)
 	(wire
 		(pts
@@ -3873,16 +3646,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 53.34) (xy 125.73 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d11b516-865c-40a0-bb4d-6be4fe9921d0")
-	)
-	(wire
-		(pts
 			(xy 105.41 134.62) (xy 105.41 137.16)
 		)
 		(stroke
@@ -3953,7 +3716,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 39.37) (xy 156.21 35.56)
+			(xy 170.18 38.1) (xy 170.18 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3980,16 +3743,6 @@
 			(type default)
 		)
 		(uuid "590b94e7-070c-4cd6-8513-014b4a820b72")
-	)
-	(wire
-		(pts
-			(xy 138.43 53.34) (xy 138.43 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cdf0d82-9365-4483-8a34-2068fafe13bc")
 	)
 	(wire
 		(pts
@@ -4103,16 +3856,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 53.34) (xy 156.21 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e57f7b3-b1e4-49e4-9ebd-8acacba870c1")
-	)
-	(wire
-		(pts
 			(xy 100.33 113.03) (xy 105.41 113.03)
 		)
 		(stroke
@@ -4123,7 +3866,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 46.99) (xy 156.21 53.34)
+			(xy 170.18 45.72) (xy 170.18 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4193,6 +3936,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 63.5) (xy 180.34 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90636448-7a0c-4720-a989-5e4bc6e37229")
+	)
+	(wire
+		(pts
 			(xy 100.33 86.36) (xy 104.14 86.36)
 		)
 		(stroke
@@ -4223,26 +3976,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 55.88) (xy 127 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96080b04-5e7a-48a4-a7ac-58d199fea999")
-	)
-	(wire
-		(pts
-			(xy 138.43 55.88) (xy 138.43 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96a8279a-4b3e-4686-a2bf-caceba062149")
-	)
-	(wire
-		(pts
 			(xy 100.33 93.98) (xy 104.14 93.98)
 		)
 		(stroke
@@ -4253,13 +3986,13 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 53.34) (xy 125.73 53.34)
+			(xy 170.18 52.07) (xy 180.34 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a2e9d513-9aa5-42c5-9f36-a69ae8d30c9d")
+		(uuid "a370a55f-0d02-4869-89bf-1c1a8420e92c")
 	)
 	(wire
 		(pts
@@ -4470,16 +4203,6 @@
 			(type default)
 		)
 		(uuid "cf44a5e2-b8ad-480b-8566-6662f6325478")
-	)
-	(wire
-		(pts
-			(xy 137.16 55.88) (xy 138.43 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d04d0c3c-f06c-4ff5-9ec9-b561fd345f1d")
 	)
 	(wire
 		(pts
@@ -5161,7 +4884,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 166.37 53.34 0)
+		(at 180.34 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5171,7 +4894,7 @@
 		)
 		(uuid "6fa21da5-0d54-43b5-b3e5-49ac643b5d23")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.1003 53.34 0)
+			(at 189.0703 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5381,7 +5104,7 @@
 	)
 	(global_label "DTR"
 		(shape input)
-		(at 143.51 35.56 90)
+		(at 157.48 34.29 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5391,7 +5114,7 @@
 		)
 		(uuid "ab0f0784-ff9d-4758-83dc-f95ef0fe7978")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 29.0672 90)
+			(at 157.48 27.7972 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5993,172 +5716,6 @@
 			(project "Tutorial02"
 				(path "/04eaaa8e-012c-4947-8e3b-79fe45bf2789"
 					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dk_Tactile-Switches:1825910-6")
-		(at 132.08 53.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10847421-d5c8-4184-9c84-66e52a4ef722")
-		(property "Reference" "S1"
-			(at 132.08 45.72 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "Reset"
-			(at 132.08 48.26 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-100x"
-			(at 137.16 48.26 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English"
-			(at 137.16 45.72 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 24V"
-			(at 132.08 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digi-Key_PN" "450-1650-ND"
-			(at 137.16 43.18 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "1825910-6"
-			(at 137.16 40.64 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Category" "Switches"
-			(at 137.16 38.1 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Family" "Tactile Switches"
-			(at 137.16 35.56 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Datasheet_Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English"
-			(at 137.16 33.02 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Detail_Page" "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536"
-			(at 137.16 30.48 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "SWITCH TACTILE SPST-NO 0.05A 24V"
-			(at 137.16 27.94 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TE Connectivity ALCOSWITCH Switches"
-			(at 137.16 25.4 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Status" "Active"
-			(at 137.16 22.86 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "d2f27c6f-0044-4b63-acd7-ab7d07f61eb0")
-		)
-		(pin "1"
-			(uuid "eafefc1d-ec01-497e-8124-fdedc1369249")
-		)
-		(pin "2"
-			(uuid "8591f6ce-efa1-4f6c-ad56-441b2b814b74")
-		)
-		(pin "4"
-			(uuid "2555a43d-68e4-494a-9c87-606b3633d2bd")
-		)
-		(instances
-			(project ""
-				(path "/04eaaa8e-012c-4947-8e3b-79fe45bf2789"
-					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -6971,6 +6528,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 144.78 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ec471ff-653d-4ca2-997b-676e6bbc21ca")
+		(property "Reference" "SW1"
+			(at 144.78 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H7.3mm"
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 144.78 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "05584d6b-40ec-43b6-9943-5b464ba09fc8")
+		)
+		(pin "1"
+			(uuid "b3d90287-001c-43da-b2a4-73631b50a00c")
+		)
+		(instances
+			(project ""
+				(path "/04eaaa8e-012c-4947-8e3b-79fe45bf2789"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 142.24 85.09 90)
 		(unit 1)
@@ -7107,7 +6732,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 143.51 43.18 0)
+		(at 157.48 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7115,7 +6740,7 @@
 		(dnp no)
 		(uuid "8b31ced1-4e8a-458c-bf4e-a3ddeded1e30")
 		(property "Reference" "C3"
-			(at 146.304 41.91 0)
+			(at 160.274 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7124,7 +6749,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 146.304 44.45 0)
+			(at 160.274 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7133,7 +6758,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
-			(at 144.4752 46.99 0)
+			(at 158.4452 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7142,7 +6767,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 43.18 0)
+			(at 157.48 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7151,7 +6776,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 143.51 43.18 0)
+			(at 157.48 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7176,7 +6801,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 156.21 43.18 180)
+		(at 170.18 41.91 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7185,7 +6810,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c478442-a2c7-418e-b7b2-80144af22eb8")
 		(property "Reference" "R1"
-			(at 158.75 41.9099 0)
+			(at 172.72 40.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7194,7 +6819,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 158.75 44.4499 0)
+			(at 172.72 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7203,7 +6828,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
-			(at 157.988 43.18 90)
+			(at 171.958 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7212,7 +6837,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 43.18 0)
+			(at 170.18 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7221,7 +6846,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 156.21 43.18 0)
+			(at 170.18 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7832,7 +7457,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 53.34 270)
+		(at 134.62 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7841,7 +7466,7 @@
 		(fields_autoplaced yes)
 		(uuid "c954604d-0dc2-49d7-a631-4f25b0bfc6b1")
 		(property "Reference" "#PWR08"
-			(at 118.11 53.34 0)
+			(at 128.27 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7850,7 +7475,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 120.65 53.3399 90)
+			(at 130.81 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7859,7 +7484,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 53.34 0)
+			(at 134.62 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7868,7 +7493,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 53.34 0)
+			(at 134.62 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7877,7 +7502,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 53.34 0)
+			(at 134.62 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8169,7 +7794,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 156.21 35.56 0)
+		(at 170.18 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8178,7 +7803,7 @@
 		(fields_autoplaced yes)
 		(uuid "ebb66633-0a06-4251-8f22-8de5ddc09f64")
 		(property "Reference" "#PWR09"
-			(at 156.21 39.37 0)
+			(at 170.18 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8187,7 +7812,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 156.21 30.48 0)
+			(at 170.18 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8195,7 +7820,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 35.56 0)
+			(at 170.18 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8204,7 +7829,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 35.56 0)
+			(at 170.18 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8213,7 +7838,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 156.21 35.56 0)
+			(at 170.18 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
