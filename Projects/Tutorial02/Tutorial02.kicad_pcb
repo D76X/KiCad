@@ -115,7 +115,7 @@
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"
-			(at 0 -2.38 0)
+			(at 0 20.54 0)
 			(layer "F.SilkS")
 			(uuid "0eafb025-8e8e-453c-9b03-a9f0f180c996")
 			(effects
@@ -1022,7 +1022,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
-			(at 3.81 -1.92 0)
+			(at 3.5 2 0)
 			(layer "F.SilkS")
 			(uuid "b86be9b1-d046-4b4a-8076-0a67bdcde99b")
 			(effects
@@ -2532,7 +2532,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 6mm width 2.5mm Capacitor")
 		(property "Reference" "C3"
-			(at 2.5 -2.5 90)
+			(at 2.5 -2.5 180)
 			(layer "F.SilkS")
 			(uuid "259bb3c6-6c8e-4b6b-87a8-304365535415")
 			(effects
@@ -2711,7 +2711,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "bc516ea3-8321-4dfc-b0a5-ec46100b82e3")
-		(at 114 119.5 90)
+		(at 114 118.5 90)
 		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x06 2.54mm single row")
 		(property "Reference" "J4"
@@ -3012,7 +3012,7 @@
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=7.3mm")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW1"
-			(at 3.25 7 0)
+			(at 5.5 -2.5 0)
 			(layer "F.SilkS")
 			(uuid "f8a95ce2-2069-439d-b2e0-fa403a9b2a85")
 			(effects
@@ -3359,7 +3359,7 @@
 		(descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x05 2.54mm single row")
 		(property "Reference" "J1"
-			(at 0 -2.38 0)
+			(at 0 -3 0)
 			(layer "F.SilkS")
 			(uuid "3cc82c6d-6d88-4219-a62a-2fb18726d1c6")
 			(effects
@@ -3645,7 +3645,7 @@
 		(descr "Terminal Block TE 282834-2, 2 pins, pitch 2.54mm, size 5.54x6.5mm, drill diameter 1.1mm, pad diameter 2.1mm, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity")
 		(tags "THT Terminal Block TE 282834-2 pitch 2.54mm size 5.54x6.5mm drill 1.1mm pad 2.1mm")
 		(property "Reference" "J5"
-			(at 1.27 -4.37 0)
+			(at 5.54 -3 0)
 			(layer "F.SilkS")
 			(uuid "f8c50474-20ea-4a51-92c7-e2731df65888")
 			(effects
@@ -4483,7 +4483,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 6mm width 2.5mm Capacitor")
 		(property "Reference" "C2"
-			(at 2.5 -2.5 90)
+			(at 7 0 180)
 			(layer "F.SilkS")
 			(uuid "8ad33ce3-d2f2-4e1d-a4fd-8d390fb9dd0f")
 			(effects
@@ -4658,6 +4658,17 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_rect
+		(start 104 70)
+		(end 140.5 121)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "72ea3837-a246-4a57-842e-524e16af5041")
 	)
 	(embedded_fonts no)
 )
