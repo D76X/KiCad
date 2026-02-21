@@ -9138,7 +9138,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 255 85 0 0.5000)
 		)
 		(uuid "088a6c03-a50a-4238-8650-576912e1e4b8")
 		(property "Sheetname" "ESP-32-C3-02"
