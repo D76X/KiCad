@@ -4513,6 +4513,16 @@
 	)
 	(wire
 		(pts
+			(xy 134.62 153.67) (xy 137.16 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8339462d-9606-41ce-b789-0bfd74a17537")
+	)
+	(wire
+		(pts
 			(xy 123.19 107.95) (xy 111.76 107.95)
 		)
 		(stroke
@@ -4530,6 +4540,16 @@
 			(type default)
 		)
 		(uuid "88f3c36c-2033-4338-8373-8a3f95c9335f")
+	)
+	(wire
+		(pts
+			(xy 134.62 149.86) (xy 137.16 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "899fb244-e784-41b9-b984-666bf5e270a1")
 	)
 	(wire
 		(pts
@@ -4660,6 +4680,16 @@
 			(type default)
 		)
 		(uuid "a308b5a5-ab39-432d-8d8a-6b1ded989065")
+	)
+	(wire
+		(pts
+			(xy 134.62 147.32) (xy 137.16 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a758e969-9dd9-4fb8-8f6c-eb0e5e62c4bf")
 	)
 	(wire
 		(pts
@@ -5111,7 +5141,7 @@
 		)
 		(uuid "09b8e530-8cbb-44c1-a8b8-0f7c8595e15c")
 	)
-	(label "VUSB"
+	(label "VBUS"
 		(at 87.63 50.8 0)
 		(effects
 			(font
@@ -5141,7 +5171,7 @@
 		)
 		(uuid "3e342a9e-2108-4fed-86f6-710a1bf22418")
 	)
-	(label "VUSB"
+	(label "VBUS"
 		(at 44.45 38.1 180)
 		(effects
 			(font
@@ -5160,6 +5190,16 @@
 			(justify left bottom)
 		)
 		(uuid "629397ae-a81c-448e-a106-da2c1705d7c4")
+	)
+	(label "VBUS"
+		(at 137.16 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "666602d4-fb76-40be-98d6-b9690350067f")
 	)
 	(label "USB_DP"
 		(at 44.45 43.18 180)
@@ -5181,7 +5221,7 @@
 		)
 		(uuid "7084968b-c161-4ff5-ae01-ffc6fdf78159")
 	)
-	(label "VUSB"
+	(label "VBUS"
 		(at 92.71 38.1 180)
 		(effects
 			(font
@@ -5191,7 +5231,17 @@
 		)
 		(uuid "7f3d6c42-9f7b-4037-83ce-246532a1fc68")
 	)
-	(label "VUSB"
+	(label "USB_DN"
+		(at 137.16 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9382f87-50e6-4bae-9654-5789ff903667")
+	)
+	(label "VBUS"
 		(at 44.45 50.8 180)
 		(effects
 			(font
@@ -5220,6 +5270,16 @@
 			(justify left bottom)
 		)
 		(uuid "de109dfe-03ee-4597-885f-03c91a50a647")
+	)
+	(label "USB_DP"
+		(at 137.16 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "df439dcd-eb61-4e5a-8855-0de9c31a85e6")
 	)
 	(label "VBAT"
 		(at 205.74 53.34 180)
@@ -9126,7 +9186,7 @@
 		)
 	)
 	(sheet
-		(at 80.01 144.78)
+		(at 76.2 144.78)
 		(size 58.42 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9142,7 +9202,7 @@
 		)
 		(uuid "088a6c03-a50a-4238-8650-576912e1e4b8")
 		(property "Sheetname" "ESP-32-C3-02"
-			(at 80.01 144.0684 0)
+			(at 76.2 144.0684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9151,12 +9211,42 @@
 			)
 		)
 		(property "Sheetfile" "esp-32-c3-02.kicad_sch"
-			(at 80.01 169.4946 0)
+			(at 76.2 169.4946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "USB_DN" input
+			(at 134.62 149.86 0)
+			(uuid "292edec0-75e2-4aee-8d8e-88319a98a2ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DP" input
+			(at 134.62 147.32 0)
+			(uuid "84b6ec5e-547d-465b-9420-5fda34c6f9ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VBUS" input
+			(at 134.62 153.67 0)
+			(uuid "7e99be4f-d9dd-4898-91f4-447551b9fcf0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
