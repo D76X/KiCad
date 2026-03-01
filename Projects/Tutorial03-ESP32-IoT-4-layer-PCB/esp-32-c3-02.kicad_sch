@@ -2210,6 +2210,526 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "LTST-C170GKT:LTST-C170GKT"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "LTST-C170GKT"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "LEDC2012X120N"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/895/LTST-C170GKT.pdf"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "LED,SMD,0805,Green,6mcd,130deg Lite-On LTST-C170GKT, CHIPLED 0805 Series Green LED, 569 nm 2012 (0805), Rectangle Lens SMD package"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.2"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Lite-On"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "LTST-C170GKT"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "859-LTST-C170GKT"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170GKT?qs=%2FSqKn2EfXQSV5aRij3YIfQ%3D%3D"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "LTST-C170GKT"
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170gkt/lite-on-technology?utm_currency=USD&region=nac"
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "LTST-C170GKT_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "LTST-C170KRKT:LTST-C170KRKT"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "LTST-C170KRKT"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "LEDC2012X120N"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LTST-C170KRKT.pdf"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Standard LEDs - SMD Red Clear 631nm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.2"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Lite-On"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "LTST-C170KRKT"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "859-LTST-C170KRKT"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "LTST-C170KRKT"
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170krkt/lite-on-technology?utm_currency=USD&region=nac"
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "LTST-C170KRKT_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Power_Protection:USBLC6-2SC6"
 			(pin_names
 				(hide yes)
@@ -2969,6 +3489,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+3.3V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3.3V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3.3V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3.3V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -3071,33 +3716,99 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 29.21 22.86)
+		(end 161.29 125.73)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d82959e2-3ef8-4467-9f96-61cc1e9f70d7)
+	)
+	(text "USB MODULE"
+		(exclude_from_sim no)
+		(at 150.876 124.206 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "facabb63-125f-4c97-b79a-bbad8014ba24")
+	)
 	(junction
-		(at 30.48 83.82)
+		(at 35.56 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00f826aa-3f1f-432a-8b83-e7c3c8220d6d")
 	)
 	(junction
-		(at 93.98 43.18)
+		(at 99.06 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0158c154-74d4-4e6b-a230-dc1771b7c0d0")
 	)
 	(junction
-		(at 30.48 68.58)
+		(at 35.56 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "059b72d3-aab7-4a76-b28c-2b97836e3b03")
 	)
 	(junction
-		(at 43.18 68.58)
+		(at 48.26 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ef2202f-fb87-4832-9bb5-16a68fa3b415")
 	)
+	(junction
+		(at 99.06 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35dc8abb-6e3e-4cb2-8494-32170ca5a5a9")
+	)
+	(junction
+		(at 153.67 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3de48370-cad4-483b-a1d9-79cf05faac15")
+	)
+	(junction
+		(at 72.39 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57628126-a4c4-4792-8e34-606da5d5f51e")
+	)
+	(junction
+		(at 99.06 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1ea0740-1b48-420f-9dd2-98fb75ca9601")
+	)
+	(no_connect
+		(at 114.3 78.74)
+		(uuid "0a3e49f1-fbe6-44a7-a293-4ff4e64f555f")
+	)
+	(no_connect
+		(at 114.3 96.52)
+		(uuid "721a9321-25bf-4211-93bd-062ea3d28541")
+	)
+	(no_connect
+		(at 114.3 88.9)
+		(uuid "7f517101-449a-4e3a-b0f2-3a19cd9982fa")
+	)
+	(no_connect
+		(at 114.3 93.98)
+		(uuid "8d88be02-e4fb-45a5-9642-da3cbcffb573")
+	)
+	(no_connect
+		(at 114.3 86.36)
+		(uuid "bf1f4969-57f1-47d2-8a8f-0ca620171d49")
+	)
 	(wire
 		(pts
-			(xy 30.48 68.58) (xy 43.18 68.58)
+			(xy 35.56 76.2) (xy 48.26 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3107,7 +3818,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 43.18) (xy 93.98 50.8)
+			(xy 99.06 50.8) (xy 99.06 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3117,7 +3828,17 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 90.17) (xy 68.58 91.44)
+			(xy 218.44 82.55) (xy 220.98 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04bae578-1073-4346-b0f2-9b81adef5370")
+	)
+	(wire
+		(pts
+			(xy 73.66 97.79) (xy 73.66 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3127,7 +3848,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 54.61) (xy 30.48 58.42)
+			(xy 35.56 62.23) (xy 35.56 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3137,7 +3858,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 85.09) (xy 77.47 87.63)
+			(xy 82.55 92.71) (xy 82.55 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3147,7 +3868,17 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 85.09) (xy 60.96 85.09)
+			(xy 200.66 74.93) (xy 203.2 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b5e18a4-979d-4b19-8a3e-c2b67543b4a6")
+	)
+	(wire
+		(pts
+			(xy 63.5 92.71) (xy 66.04 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3157,7 +3888,27 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 55.88) (xy 66.04 43.18)
+			(xy 153.67 114.3) (xy 153.67 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11cf588c-96bf-4ec2-97e3-8869ed205466")
+	)
+	(wire
+		(pts
+			(xy 125.73 99.06) (xy 129.54 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15dfb32f-0c07-42e2-8f06-d688ed81ee35")
+	)
+	(wire
+		(pts
+			(xy 71.12 63.5) (xy 71.12 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3167,7 +3918,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 43.18) (xy 93.98 43.18)
+			(xy 71.12 50.8) (xy 99.06 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3177,7 +3928,27 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 71.12) (xy 66.04 80.01)
+			(xy 114.3 99.06) (xy 118.11 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f68b586-ecd6-467d-b090-0f805eaf6e6b")
+	)
+	(wire
+		(pts
+			(xy 99.06 44.45) (xy 99.06 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20fcb6f2-43d1-4ec2-9cd9-0f352b06af82")
+	)
+	(wire
+		(pts
+			(xy 71.12 78.74) (xy 71.12 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3187,7 +3958,17 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 85.09) (xy 77.47 85.09)
+			(xy 144.78 114.3) (xy 153.67 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "320539b7-3bf6-4825-82c4-7a02a61deaf6")
+	)
+	(wire
+		(pts
+			(xy 78.74 92.71) (xy 82.55 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3197,7 +3978,57 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 83.82) (xy 30.48 83.82)
+			(xy 125.73 114.3) (xy 129.54 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "367bb38e-80a8-4905-a6bd-330f3f756922")
+	)
+	(wire
+		(pts
+			(xy 114.3 101.6) (xy 116.84 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47bf635e-dc38-461d-b107-4757d7f88840")
+	)
+	(wire
+		(pts
+			(xy 99.06 35.56) (xy 99.06 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "519751f7-e231-4563-90cf-8716761942de")
+	)
+	(wire
+		(pts
+			(xy 218.44 80.01) (xy 220.98 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "577eacb7-3f3e-4d77-a088-56ffe9594c55")
+	)
+	(wire
+		(pts
+			(xy 153.67 88.9) (xy 153.67 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58697721-26b8-443a-8b9d-ee7919b0085b")
+	)
+	(wire
+		(pts
+			(xy 48.26 91.44) (xy 35.56 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3207,7 +4038,37 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 71.12) (xy 66.04 71.12)
+			(xy 210.82 74.93) (xy 220.98 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "613de26a-2852-47b4-9535-f1629fab6aef")
+	)
+	(wire
+		(pts
+			(xy 66.04 35.56) (xy 66.04 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6250d4d6-72dc-4ab0-a0eb-765881fe3622")
+	)
+	(wire
+		(pts
+			(xy 116.84 114.3) (xy 118.11 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "657bf167-a54f-49a1-aada-844dcbda0448")
+	)
+	(wire
+		(pts
+			(xy 88.9 78.74) (xy 71.12 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3217,7 +4078,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 80.01) (xy 30.48 83.82)
+			(xy 35.56 87.63) (xy 35.56 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3227,7 +4088,37 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 72.39) (xy 43.18 68.58)
+			(xy 72.39 44.45) (xy 72.39 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "710db799-24c0-4ce4-85b3-c03a8134fb81")
+	)
+	(wire
+		(pts
+			(xy 99.06 30.48) (xy 99.06 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72581dc9-bedf-47fd-a6dc-aead8b9a1dd6")
+	)
+	(wire
+		(pts
+			(xy 77.47 35.56) (xy 72.39 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a99fc1-3737-413f-9409-e500e7308c63")
+	)
+	(wire
+		(pts
+			(xy 48.26 80.01) (xy 48.26 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3237,7 +4128,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 55.88) (xy 83.82 55.88)
+			(xy 85.09 63.5) (xy 88.9 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3247,7 +4138,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 90.17) (xy 66.04 91.44)
+			(xy 71.12 97.79) (xy 71.12 99.06)
 		)
 		(stroke
 			(width 0)
@@ -3257,7 +4148,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 80.01) (xy 43.18 83.82)
+			(xy 48.26 87.63) (xy 48.26 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3267,7 +4158,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 68.58) (xy 30.48 72.39)
+			(xy 35.56 76.2) (xy 35.56 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3277,7 +4168,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 80.01) (xy 68.58 73.66)
+			(xy 73.66 87.63) (xy 73.66 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3287,7 +4178,37 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 55.88) (xy 66.04 55.88)
+			(xy 72.39 44.45) (xy 77.47 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c1fecbd-0ed2-4f4c-bc62-7bd22d218f73")
+	)
+	(wire
+		(pts
+			(xy 144.78 99.06) (xy 153.67 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dad9ae8-c7ce-4658-bfe7-bd3506cb8954")
+	)
+	(wire
+		(pts
+			(xy 85.09 44.45) (xy 99.06 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a02266d7-e794-4dc6-8696-4562dc410a91")
+	)
+	(wire
+		(pts
+			(xy 77.47 63.5) (xy 71.12 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3297,7 +4218,17 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 106.68) (xy 96.52 109.22)
+			(xy 219.71 59.69) (xy 220.98 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abb5feab-c91c-46aa-a3d6-90f1681aec72")
+	)
+	(wire
+		(pts
+			(xy 101.6 114.3) (xy 101.6 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3307,7 +4238,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 68.58) (xy 83.82 68.58)
+			(xy 48.26 76.2) (xy 88.9 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3317,7 +4248,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 66.04) (xy 30.48 68.58)
+			(xy 35.56 73.66) (xy 35.56 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3327,7 +4258,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 83.82) (xy 30.48 87.63)
+			(xy 35.56 91.44) (xy 35.56 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3337,7 +4268,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 73.66) (xy 83.82 73.66)
+			(xy 73.66 81.28) (xy 88.9 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3347,7 +4278,37 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 50.8) (xy 96.52 43.18)
+			(xy 72.39 35.56) (xy 66.04 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6a941f0-c1a9-4d2a-ae2a-74f47d73991a")
+	)
+	(wire
+		(pts
+			(xy 116.84 101.6) (xy 116.84 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e92f1ba0-70bf-41a1-9b83-f3523aeb0bec")
+	)
+	(wire
+		(pts
+			(xy 218.44 54.61) (xy 220.98 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef5e23fb-e0f0-4e70-a71f-93e24baa74de")
+	)
+	(wire
+		(pts
+			(xy 101.6 58.42) (xy 101.6 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3357,7 +4318,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 43.18) (xy 93.98 43.18)
+			(xy 101.6 50.8) (xy 99.06 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3365,8 +4326,78 @@
 		)
 		(uuid "fcb77766-6147-4c4c-a8fd-ab1f8f91a535")
 	)
+	(wire
+		(pts
+			(xy 85.09 35.56) (xy 99.06 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fde67e14-7f08-413b-927e-7a1fa28a04e5")
+	)
+	(label "RTS"
+		(at 116.84 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "04d883ae-107a-4030-9312-b962095fc639")
+	)
+	(label "TX_RX"
+		(at 218.44 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4cbd3189-56c6-49ee-98d3-cbc5008ebe1a")
+	)
+	(label "SCLK"
+		(at 200.66 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "602625f8-31a4-4f1e-8953-4d722b3cec7c")
+	)
+	(label "DTS"
+		(at 116.84 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6212a16c-e84e-4a31-b89f-e57e2cb921ea")
+	)
+	(label "CD_SD"
+		(at 219.71 59.69 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "67ae8c9a-51d0-4234-b428-411031db4099")
+	)
+	(label "EN"
+		(at 218.44 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6af3833c-36c8-4b9f-b128-a4e8cac4dd64")
+	)
 	(label "USB_D+"
-		(at 72.2915 73.66 0)
+		(at 77.3715 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3375,8 +4406,38 @@
 		)
 		(uuid "89a9a8cf-8cee-4ac1-b366-fd52204996c8")
 	)
+	(label "RX_TX"
+		(at 218.44 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c0fcd95b-335b-49b4-92dd-faebf816442b")
+	)
+	(label "TX_RX"
+		(at 116.84 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2525548-38fc-45a7-bd52-4a3e258b6e34")
+	)
+	(label "RX_TX"
+		(at 116.84 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f8b63c1e-cecd-43fc-b191-fab91c90aad9")
+	)
 	(label "USB_D-"
-		(at 72.39 71.12 0)
+		(at 77.47 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3387,7 +4448,7 @@
 	)
 	(hierarchical_label "USB_DP"
 		(shape input)
-		(at 68.58 91.44 270)
+		(at 73.66 99.06 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3398,7 +4459,7 @@
 	)
 	(hierarchical_label "VBUS"
 		(shape input)
-		(at 30.48 54.61 90)
+		(at 35.56 62.23 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3409,7 +4470,7 @@
 	)
 	(hierarchical_label "USB_DN"
 		(shape input)
-		(at 66.04 91.44 270)
+		(at 71.12 99.06 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3420,7 +4481,7 @@
 	)
 	(hierarchical_label "VBUS"
 		(shape input)
-		(at 58.42 85.09 180)
+		(at 63.5 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3430,8 +4491,140 @@
 		(uuid "ac3fba4d-f961-49cb-ac3b-f09734aa69e1")
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 153.67 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2bca24b5-97b0-4da8-ba0f-338bbb40f1d1")
+		(property "Reference" "#PWR023"
+			(at 153.67 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 153.67 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 153.67 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c69d719f-300e-4a9f-ba58-fa35984e90ca")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 66.04 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3732d4fe-8995-4412-a9d9-ceb1af3a4ec7")
+		(property "Reference" "#PWR021"
+			(at 66.04 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 66.04 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.04 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 66.04 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "290793d7-764d-4b10-b526-3f58b74df6d6")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
-		(at 30.48 76.2 0)
+		(at 35.56 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3440,7 +4633,7 @@
 		(fields_autoplaced yes)
 		(uuid "3cb484d4-cf4f-420a-b044-2c9c01257934")
 		(property "Reference" "R13"
-			(at 33.02 74.9299 0)
+			(at 38.1 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3449,7 +4642,7 @@
 			)
 		)
 		(property "Value" "47K5"
-			(at 33.02 77.4699 0)
+			(at 38.1 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3458,7 +4651,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 28.702 76.2 90)
+			(at 33.782 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3467,7 +4660,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 76.2 0)
+			(at 35.56 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3476,7 +4669,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 30.48 76.2 0)
+			(at 35.56 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3501,7 +4694,7 @@
 	)
 	(symbol
 		(lib_id "W25Q32JVSSIQ:W25Q32JVSSIQ")
-		(at 91.44 148.59 0)
+		(at 91.44 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3510,7 +4703,7 @@
 		(fields_autoplaced yes)
 		(uuid "4036b8cf-a880-4b18-b64e-eddda1c1b6c0")
 		(property "Reference" "U6"
-			(at 91.44 133.35 0)
+			(at 91.44 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3518,7 +4711,7 @@
 			)
 		)
 		(property "Value" "W25Q32JVSSIQ"
-			(at 91.44 135.89 0)
+			(at 91.44 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3526,7 +4719,7 @@
 			)
 		)
 		(property "Footprint" "W25Q32JVSSIQ:SOIC127P790X216-8N"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3536,7 +4729,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3545,7 +4738,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3554,7 +4747,7 @@
 			)
 		)
 		(property "SHOP" ""
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3564,7 +4757,7 @@
 			)
 		)
 		(property "MF" "Winbond"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3574,7 +4767,7 @@
 			)
 		)
 		(property "Description_1" "FLASH - NOR Memory IC 32Mb (4M x 8) SPI - Quad I/O 133 MHz 8-SOIC"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3584,7 +4777,7 @@
 			)
 		)
 		(property "Package" "SOIC-8 Winbond"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3594,7 +4787,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3604,7 +4797,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/W25Q32JVSSIQ/Winbond+Electronics/view-part/?ref=snap"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3614,7 +4807,7 @@
 			)
 		)
 		(property "MP" "W25Q32JVSSIQ"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3624,7 +4817,7 @@
 			)
 		)
 		(property "M_PART_NUMBER" "W25QXX"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3634,7 +4827,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3644,7 +4837,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/W25Q32JVSSIQ/Winbond+Electronics/view-part/?ref=eda"
-			(at 91.44 148.59 0)
+			(at 91.44 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3694,32 +4887,34 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 76.2 55.88 90)
+		(at 121.92 99.06 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cd3a7d5-6cc7-4b28-a72f-5dfb8421dae2")
-		(property "Reference" "R11"
-			(at 76.2 49.53 90)
+		(uuid "4aee83c9-6885-4dbb-8afa-1344f0e88823")
+		(property "Reference" "R16"
+			(at 123.444 104.902 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "1k"
-			(at 76.2 52.07 90)
+		(property "Value" "470"
+			(at 123.444 102.362 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 57.658 90)
+			(at 121.92 97.282 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3728,7 +4923,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 55.88 0)
+			(at 121.92 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3737,7 +4932,75 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 76.2 55.88 0)
+			(at 121.92 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c24d4c2-5ec6-4e60-9103-53a660bd40cf")
+		)
+		(pin "2"
+			(uuid "e6d69bbd-a990-4bdc-ac0b-82a6807dd576")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 81.28 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4cd3a7d5-6cc7-4b28-a72f-5dfb8421dae2")
+		(property "Reference" "R11"
+			(at 81.28 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 81.28 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 65.278 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 81.28 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3762,7 +5025,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 43.18 76.2 0)
+		(at 48.26 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3771,7 +5034,7 @@
 		(fields_autoplaced yes)
 		(uuid "5521f797-f278-4584-ac74-48e84808e597")
 		(property "Reference" "C11"
-			(at 46.99 74.9299 0)
+			(at 52.07 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3780,7 +5043,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 46.99 77.4699 0)
+			(at 52.07 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3789,7 +5052,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.1452 80.01 0)
+			(at 49.2252 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3798,7 +5061,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 76.2 0)
+			(at 48.26 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3807,7 +5070,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 43.18 76.2 0)
+			(at 48.26 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3832,7 +5095,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 87.63 0)
+		(at 82.55 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3841,7 +5104,7 @@
 		(fields_autoplaced yes)
 		(uuid "663a1409-931b-4d75-b141-676f83109289")
 		(property "Reference" "#PWR018"
-			(at 77.47 93.98 0)
+			(at 82.55 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3850,7 +5113,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 77.47 92.71 0)
+			(at 82.55 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3858,7 +5121,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 87.63 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3867,7 +5130,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 87.63 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3876,7 +5139,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 87.63 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3897,8 +5160,220 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 121.92 114.3 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7d936f6f-cbef-4fd4-83c6-60ae88609c16")
+		(property "Reference" "R18"
+			(at 123.444 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470"
+			(at 123.444 117.094 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 112.522 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11780d7e-e4c8-49ad-bf1b-edf2f6eb2ff1")
+		)
+		(pin "2"
+			(uuid "0217d1c9-81f6-45d0-ad84-4e4125b7704a")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LTST-C170KRKT:LTST-C170KRKT")
+		(at 129.54 114.3 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8154e054-edd6-4861-99a8-0bf86e3781fd")
+		(property "Reference" "LED6-RED"
+			(at 132.842 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LTST-C170KRKT"
+			(at 149.987 109.347 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LEDC2012X120N"
+			(at 142.24 20.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LTST-C170KRKT.pdf"
+			(at 142.24 -79.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standard LEDs - SMD Red Clear 631nm"
+			(at 129.54 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.2"
+			(at 142.24 -279.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 142.24 -379.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170KRKT"
+			(at 142.24 -479.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170KRKT"
+			(at 142.24 -579.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170KRKT?qs=NUb82WqeCyrVOID%2Fxt4rgA%3D%3D"
+			(at 142.24 -679.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170KRKT"
+			(at 142.24 -779.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170krkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 142.24 -879.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7349dc92-9678-4bd6-8615-55ac68f17471")
+		)
+		(pin "2"
+			(uuid "07773f45-a9d4-412a-8604-0417a07774b5")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "LED6-RED")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 96.52 109.22 0)
+		(at 101.6 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3907,7 +5382,7 @@
 		(fields_autoplaced yes)
 		(uuid "8cb59a1a-71c2-431c-b4c5-71db3a39aedd")
 		(property "Reference" "#PWR020"
-			(at 96.52 115.57 0)
+			(at 101.6 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3916,7 +5391,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 96.52 114.3 0)
+			(at 101.6 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3924,7 +5399,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 109.22 0)
+			(at 101.6 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3933,7 +5408,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 109.22 0)
+			(at 101.6 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3942,7 +5417,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 96.52 109.22 0)
+			(at 101.6 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3964,16 +5439,16 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 30.48 62.23 0)
+		(at 207.01 74.93 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d36d6d6-399b-443a-9c4f-f2b3bb454096")
-		(property "Reference" "R12"
-			(at 33.02 60.9599 0)
+		(uuid "8cc68c3a-1bfd-4fec-bb54-601e737d50bc")
+		(property "Reference" "R15"
+			(at 205.994 77.216 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3981,8 +5456,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22K1"
-			(at 33.02 63.4999 0)
+		(property "Value" "50"
+			(at 209.55 77.216 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3991,7 +5466,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 28.702 62.23 90)
+			(at 207.01 73.152 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4000,7 +5475,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 62.23 0)
+			(at 207.01 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4009,7 +5484,77 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 30.48 62.23 0)
+			(at 207.01 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34390a7b-0157-4661-9989-62a4de5db4ef")
+		)
+		(pin "2"
+			(uuid "3c6f3085-be3b-4824-af41-dc9ff71ad792")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 35.56 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d36d6d6-399b-443a-9c4f-f2b3bb454096")
+		(property "Reference" "R12"
+			(at 38.1 68.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22K1"
+			(at 38.1 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.782 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 35.56 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 35.56 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4034,16 +5579,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 88.9 33.02 0)
+		(at 81.28 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9a57aabc-e0c7-4488-b084-af8b8be63fa4")
-		(property "Reference" "C8"
-			(at 92.71 30.8609 0)
+		(property "Reference" "C9"
+			(at 86.106 33.528 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4051,8 +5595,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 92.71 33.4009 0)
+		(property "Value" "4.7u"
+			(at 78.994 33.528 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4061,7 +5605,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 89.8652 36.83 0)
+			(at 85.09 34.5948 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4070,7 +5614,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 33.02 0)
+			(at 81.28 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4079,7 +5623,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 88.9 33.02 0)
+			(at 81.28 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4096,7 +5640,149 @@
 		(instances
 			(project ""
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
-					(reference "C8")
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LTST-C170GKT:LTST-C170GKT")
+		(at 129.54 99.06 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab4cdeec-0d68-45f3-94a5-968e1c673441")
+		(property "Reference" "LED5-GREEN"
+			(at 134.62 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LTST-C170GKT"
+			(at 150.368 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LEDC2012X120N"
+			(at 142.24 5.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/895/LTST-C170GKT.pdf"
+			(at 142.24 -94.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "LED,SMD,0805,Green,6mcd,130deg Lite-On LTST-C170GKT, CHIPLED 0805 Series Green LED, 569 nm 2012 (0805), Rectangle Lens SMD package"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.2"
+			(at 142.24 -294.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Lite-On"
+			(at 142.24 -394.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C170GKT"
+			(at 142.24 -494.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "859-LTST-C170GKT"
+			(at 142.24 -594.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C170GKT?qs=%2FSqKn2EfXQSV5aRij3YIfQ%3D%3D"
+			(at 142.24 -694.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "LTST-C170GKT"
+			(at 142.24 -794.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ltst-c170gkt/lite-on-technology?utm_currency=USD&region=nac"
+			(at 142.24 -894.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "03de95ad-1b41-49ba-bd08-d74269483fbd")
+		)
+		(pin "1"
+			(uuid "4dfb6179-130d-40a7-9a53-4ab3b4a2f018")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "LED5-GREEN")
 					(unit 1)
 				)
 			)
@@ -4104,7 +5790,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
-		(at 66.04 85.09 90)
+		(at 71.12 92.71 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4113,7 +5799,7 @@
 		(dnp no)
 		(uuid "ac2046f2-e778-4b62-b7db-4f00a8aa56e3")
 		(property "Reference" "U5"
-			(at 70.866 78.486 90)
+			(at 75.946 86.106 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4121,7 +5807,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 76.454 80.772 90)
+			(at 81.534 88.392 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4129,7 +5815,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 72.39 86.36 0)
+			(at 77.47 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4140,7 +5826,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 74.295 86.36 0)
+			(at 79.375 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4150,7 +5836,7 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
-			(at 66.04 85.09 0)
+			(at 71.12 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4187,7 +5873,7 @@
 	)
 	(symbol
 		(lib_id "ESP32-C3-WROOM-02-H4:ESP32-C3-WROOM-02-H4")
-		(at 231.14 69.85 0)
+		(at 238.76 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4196,7 +5882,7 @@
 		(fields_autoplaced yes)
 		(uuid "b325ae4e-66e4-4450-9e07-d78585188fb6")
 		(property "Reference" "U3"
-			(at 231.14 44.45 0)
+			(at 238.76 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4204,7 +5890,7 @@
 			)
 		)
 		(property "Value" "ESP32-C3-WROOM-02-H4"
-			(at 231.14 46.99 0)
+			(at 238.76 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4212,7 +5898,7 @@
 			)
 		)
 		(property "Footprint" "ESP32-C3-WROOM-02-H4:MODULE_ESP32-C3-WROOM-02-H4"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4222,7 +5908,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4231,7 +5917,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4240,7 +5926,7 @@
 			)
 		)
 		(property "MF" "Espressif Systems"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4250,7 +5936,7 @@
 			)
 		)
 		(property "Description_1" "WiFi Modules (802.11) (Engineering Samples) SMD module, ESP32-C3, 4MB SPI flash, PCB antenna, -40 C +105 C"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4260,7 +5946,7 @@
 			)
 		)
 		(property "Package" "Package"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4270,7 +5956,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4280,7 +5966,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ESP32-C3-WROOM-02-H4/Espressif+Systems/view-part/?ref=eda"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4290,7 +5976,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ESP32-C3-WROOM-02-H4/Espressif+Systems/view-part/?ref=snap"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4300,7 +5986,7 @@
 			)
 		)
 		(property "MP" "ESP32-C3-WROOM-02-H4"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4310,7 +5996,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4320,7 +6006,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://pricing.snapeda.com/search/part/ESP32-C3-WROOM-02-H4/?ref=eda"
-			(at 231.14 69.85 0)
+			(at 238.76 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4462,17 +6148,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 30.48 87.63 0)
+		(lib_id "power:+3.3V")
+		(at 99.06 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "cd1ed7b2-b932-4def-afa0-9a8fdd7d3231")
-		(property "Reference" "#PWR019"
-			(at 30.48 93.98 0)
+		(uuid "c42f3135-30ba-4e71-9ef8-621e044b103f")
+		(property "Reference" "#PWR022"
+			(at 99.06 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4480,8 +6166,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 30.48 92.71 0)
+		(property "Value" "+3.3V"
+			(at 99.06 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4489,7 +6175,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 87.63 0)
+			(at 99.06 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4498,7 +6184,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 87.63 0)
+			(at 99.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 99.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5504178f-2371-4e12-b726-4cec045f0cca")
+		)
+		(instances
+			(project ""
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 35.56 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd1ed7b2-b932-4def-afa0-9a8fdd7d3231")
+		(property "Reference" "#PWR019"
+			(at 35.56 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 35.56 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4507,7 +6259,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 30.48 87.63 0)
+			(at 35.56 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4529,16 +6281,15 @@
 	)
 	(symbol
 		(lib_id "Interface_USB:CP2102N-Axx-xQFN20")
-		(at 96.52 78.74 0)
+		(at 101.6 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e1ee8474-a1d6-4a9d-a79d-75db10a7d3d1")
 		(property "Reference" "U4"
-			(at 98.6633 106.68 0)
+			(at 103.7433 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4547,7 +6298,7 @@
 			)
 		)
 		(property "Value" "CP2102N-Axx-xQFN20"
-			(at 98.6633 109.22 0)
+			(at 75.946 114.808 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4556,7 +6307,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm"
-			(at 128.27 105.41 0)
+			(at 133.35 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4565,7 +6316,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf"
-			(at 97.79 97.79 0)
+			(at 102.87 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4574,7 +6325,7 @@
 			)
 		)
 		(property "Description" "USB to UART master bridge, QFN-20"
-			(at 96.52 78.74 0)
+			(at 101.6 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4662,16 +6413,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 76.2 33.02 0)
+		(at 81.28 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f46495dc-776c-4473-b253-5e2bc76931ce")
-		(property "Reference" "C7"
-			(at 80.01 31.7499 0)
+		(property "Reference" "C10"
+			(at 86.614 42.164 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4679,8 +6429,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 80.01 34.2899 0)
+		(property "Value" "0.1u"
+			(at 78.994 42.164 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4689,7 +6439,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.1652 36.83 0)
+			(at 85.09 43.4848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4698,7 +6448,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 76.2 33.02 0)
+			(at 81.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4707,7 +6457,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 76.2 33.02 0)
+			(at 81.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4724,7 +6474,7 @@
 		(instances
 			(project ""
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
-					(reference "C7")
+					(reference "C10")
 					(unit 1)
 				)
 			)
