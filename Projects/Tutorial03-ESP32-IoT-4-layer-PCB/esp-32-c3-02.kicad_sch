@@ -9669,8 +9669,8 @@
 		)
 	)
 	(sheet
-		(at 120.65 164.338)
-		(size 12.7 3.81)
+		(at 119.888 162.306)
+		(size 21.844 24.892)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -9686,7 +9686,7 @@
 		)
 		(uuid "733e3f64-0447-404e-8d85-895ce10e69de")
 		(property "Sheetname" "Unser Interface"
-			(at 120.65 163.6264 0)
+			(at 119.888 161.5944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9695,12 +9695,102 @@
 			)
 		)
 		(property "Sheetfile" "user_interface.kicad_sch"
-			(at 120.65 168.7326 0)
+			(at 119.888 187.7826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "BOOT" input
+			(at 141.732 165.1 0)
+			(uuid "c6671c14-7438-4ba3-a59b-88c1829995a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DTR" input
+			(at 141.732 167.64 0)
+			(uuid "2a6c0192-4456-4f6d-aa5c-1b3abca379da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EN" input
+			(at 141.732 170.18 0)
+			(uuid "3d1eac32-8500-4260-a953-8e3ec106b4b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO8" bidirectional
+			(at 119.888 177.8 180)
+			(uuid "89053e97-fd1b-4d2b-9d69-ce3dd3cff649")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO18" bidirectional
+			(at 119.888 180.34 180)
+			(uuid "98442ccd-1938-4469-95a4-1fd18429511e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO19" bidirectional
+			(at 119.888 182.88 180)
+			(uuid "a3de465f-2b8e-4191-9c9b-7baf883f6bd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RTS" input
+			(at 141.732 172.72 0)
+			(uuid "f1ae4b0e-8278-4681-9ff2-0ec91074c42e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCL" bidirectional
+			(at 119.888 167.64 180)
+			(uuid "66a9fe94-5251-437b-9395-3de436aca61f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 119.888 165.1 180)
+			(uuid "e4d4104b-9bac-458e-9d2a-b60a1983173d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
