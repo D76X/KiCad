@@ -5338,7 +5338,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 194.31 107.442 90)
 			(effects
 				(font
@@ -5877,7 +5877,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LEDC2012X120N"
+		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
 			(at 73.99 69.85 0)
 			(effects
 				(font
@@ -6019,7 +6019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 165.862 49.53 90)
 			(effects
 				(font
@@ -6087,7 +6087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SS-52400-002:BELFUSE_SS-52400-002"
+		(property "Footprint" "ESP32 Project Footprints:BELFUSE_SS-52400-002"
 			(at 66.04 45.72 0)
 			(effects
 				(font
@@ -6369,7 +6369,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ESP32 Project Footprints:T491A"
 			(at 110.7948 118.11 0)
 			(effects
 				(font
@@ -6439,7 +6439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 53.0352 115.57 0)
 			(effects
 				(font
@@ -6572,7 +6572,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 259.08 39.878 90)
 			(effects
 				(font
@@ -6642,7 +6642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 113.9952 54.61 0)
 			(effects
 				(font
@@ -6711,7 +6711,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LEDC2012X120N"
+		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
 			(at 87.96 69.85 0)
 			(effects
 				(font
@@ -6851,7 +6851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "B2B-PH-SM4-TB:JST_B2B-PH-SM4-TB"
+		(property "Footprint" "ESP32 Project Footprints:JST_B2B-PH-SM4-TB"
 			(at 44.45 153.67 0)
 			(effects
 				(font
@@ -7174,7 +7174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 99.822 50.8 90)
 			(effects
 				(font
@@ -7244,7 +7244,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ESP32 Project Footprints:T491A"
 			(at 65.7352 115.57 0)
 			(effects
 				(font
@@ -7578,7 +7578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 228.2952 83.82 0)
 			(effects
 				(font
@@ -7648,7 +7648,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 179.832 49.53 90)
 			(effects
 				(font
@@ -7850,7 +7850,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 32.512 59.69 90)
 			(effects
 				(font
@@ -7986,7 +7986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 264.922 64.77 90)
 			(effects
 				(font
@@ -8186,7 +8186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 193.802 48.26 90)
 			(effects
 				(font
@@ -8449,7 +8449,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LEDC2012X120N"
+		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
 			(at 175.26 15.57 0)
 			(effects
 				(font
@@ -8588,7 +8588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 259.08 44.958 90)
 			(effects
 				(font
@@ -8657,7 +8657,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LEDC2012X120N"
+		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
 			(at 101.93 69.85 0)
 			(effects
 				(font
@@ -8799,7 +8799,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 256.032 64.77 90)
 			(effects
 				(font
@@ -8867,7 +8867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FUSC3226X100N"
+		(property "Footprint" "ESP32 Project Footprints:FUSC3226X100N"
 			(at 133.35 134.29 0)
 			(effects
 				(font
@@ -9010,7 +9010,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.2248 118.11 0)
 			(effects
 				(font
