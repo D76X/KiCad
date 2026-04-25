@@ -3547,7 +3547,7 @@
 			(uuid "6865ed09-0010-4273-8bb5-9aa9209f9e37")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "R24")
 					(unit 1)
@@ -3785,7 +3785,7 @@
 			(uuid "88effacb-4262-4a14-bf35-7b0f0719edeb")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "MK1")
 					(unit 1)
@@ -4270,7 +4270,7 @@
 			(uuid "42c491df-f5ab-45b2-b9ae-bdf3a3b7a652")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "U7")
 					(unit 1)
@@ -4494,7 +4494,7 @@
 			(uuid "1e6ae460-5c82-495f-8aa2-2dbaebbffaf1")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "U2")
 					(unit 1)
@@ -4560,7 +4560,7 @@
 			(uuid "5330511b-c2f3-4ee1-bb2a-54669412c776")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "#PWR035")
 					(unit 1)
@@ -4626,7 +4626,7 @@
 			(uuid "9a265c3d-3276-49b3-a4b3-6e4f61d34cad")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "#PWR034")
 					(unit 1)
@@ -4945,7 +4945,7 @@
 			(uuid "c9a9cc05-14d7-43ba-b208-4f3d3cb69483")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "Q1")
 					(unit 1)
@@ -5015,7 +5015,7 @@
 			(uuid "bf4ba60b-3c8f-4460-a0d2-0a595bf19368")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
 					(reference "C15")
 					(unit 1)

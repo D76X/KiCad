@@ -5577,7 +5577,7 @@
 			(uuid "5bb7d5a7-35b3-44c4-8fd7-22502fa82477")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "VR1")
 					(unit 1)
@@ -5859,7 +5859,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1df1c23b-5266-4e35-9fc3-c9b6e6bc7834")
-		(property "Reference" "LED3-BLUE"
+		(property "Reference" "LED3-BLUE1"
 			(at 163.068 61.722 0)
 			(effects
 				(font
@@ -5983,9 +5983,9 @@
 			(uuid "e5d92d3f-8716-4dff-9fc1-c31f94360ce2")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
-					(reference "LED3-BLUE")
+					(reference "LED3-BLUE1")
 					(unit 1)
 				)
 			)
@@ -6053,7 +6053,7 @@
 			(uuid "fac8a2d1-bdd1-4e04-aaac-70a0923faaa9")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "R7")
 					(unit 1)
@@ -6332,7 +6332,7 @@
 			(uuid "06cb94e8-45a3-402a-a54f-68665e34c7da")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "J1")
 					(unit 1)
@@ -6539,7 +6539,7 @@
 			(uuid "35fb2977-d686-4e52-a10d-e2be2bf8126e")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "#PWR01")
 					(unit 1)
@@ -6606,7 +6606,7 @@
 			(uuid "770354b6-80a2-4f65-b432-006ef106cf24")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "R1")
 					(unit 1)
@@ -6676,7 +6676,7 @@
 			(uuid "0bc134ad-f1a4-46ea-8cc1-fff1818019f4")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "C1")
 					(unit 1)
@@ -6693,7 +6693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4445cab3-8a03-4cc0-b9f0-58e56bf004bd")
-		(property "Reference" "LED2-GREEN"
+		(property "Reference" "LED2-GREEN1"
 			(at 176.784 62.23 0)
 			(effects
 				(font
@@ -6817,9 +6817,9 @@
 			(uuid "e2556908-200a-46a1-9f75-0d0f88036f2c")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
-					(reference "LED2-GREEN")
+					(reference "LED2-GREEN1")
 					(unit 1)
 				)
 			)
@@ -7006,7 +7006,7 @@
 			(uuid "f1d7733c-148c-44cb-ab09-eca1856fdf9b")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "J2")
 					(unit 1)
@@ -7208,7 +7208,7 @@
 			(uuid "1ee7ba27-ce93-4d9f-9659-aba5dda1f3c7")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "R3")
 					(unit 1)
@@ -7278,7 +7278,7 @@
 			(uuid "0901ceb8-5d42-4091-a32c-be914b806111")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "C3")
 					(unit 1)
@@ -7476,7 +7476,7 @@
 			(uuid "6bf29b57-cb94-4a9e-b54a-4061e412f743")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "#PWR011")
 					(unit 1)
@@ -7612,7 +7612,7 @@
 			(uuid "f0754a93-a537-4780-829e-ecb474d2abb7")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "C6")
 					(unit 1)
@@ -7814,7 +7814,7 @@
 			(uuid "4cd3e3ed-c693-405a-83a3-5c9276861dfe")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "#PWR013")
 					(unit 1)
@@ -8348,7 +8348,7 @@
 			(uuid "7a967530-1a7a-42e8-b141-eaef67705834")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "U1")
 					(unit 1)
@@ -8639,7 +8639,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d76cf29e-d198-4467-93ab-cbd6b8ca8073")
-		(property "Reference" "LED1-RED"
+		(property "Reference" "LED1-RED1"
 			(at 190.5 60.452 0)
 			(effects
 				(font
@@ -8763,9 +8763,9 @@
 			(uuid "77260909-daed-49a4-96fb-23f19c97d37b")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
-					(reference "LED1-RED")
+					(reference "LED1-RED1")
 					(unit 1)
 				)
 			)
@@ -8973,7 +8973,7 @@
 			(uuid "22f77274-05e5-452a-83c6-2e1a21cb7612")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "F1")
 					(unit 1)
@@ -9111,7 +9111,7 @@
 			(uuid "cc9a3db4-fac3-4cb5-9493-476ad5d49abd")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
 					(reference "#FLG01")
 					(unit 1)

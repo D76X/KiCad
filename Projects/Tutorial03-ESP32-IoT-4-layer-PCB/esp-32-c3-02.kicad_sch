@@ -4257,6 +4257,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 129.54) (xy 240.03 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1071687a-3a07-4913-91c4-78991bbc50e9")
+	)
+	(wire
+		(pts
 			(xy 50.8 92.71) (xy 53.34 92.71)
 		)
 		(stroke
@@ -4307,6 +4317,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 177.8) (xy 144.78 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b854c48-d26c-4631-a8c2-69ea66245b4f")
+	)
+	(wire
+		(pts
 			(xy 58.42 50.8) (xy 86.36 50.8)
 		)
 		(stroke
@@ -4337,6 +4357,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 182.88) (xy 144.78 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2280cd44-a375-442d-8aa2-0c339dd3320d")
+	)
+	(wire
+		(pts
 			(xy 271.78 45.72) (xy 271.78 52.07)
 		)
 		(stroke
@@ -4354,6 +4384,16 @@
 			(type default)
 		)
 		(uuid "255c0719-97a4-4d3b-8c13-1d6b6eb5c9c2")
+	)
+	(wire
+		(pts
+			(xy 116.84 167.64) (xy 119.38 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a7a75b5-845e-44f3-8b16-da291a1f3d33")
 	)
 	(wire
 		(pts
@@ -4647,26 +4687,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 129.54) (xy 240.03 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6db08718-1b1b-4702-b64b-c5885362a75d")
-	)
-	(wire
-		(pts
-			(xy 228.6 129.54) (xy 231.14 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e9a9a7a-b016-40ea-bfae-8d51ee2a19d1")
-	)
-	(wire
-		(pts
 			(xy 29.21 140.97) (xy 29.21 157.48)
 		)
 		(stroke
@@ -4754,6 +4774,16 @@
 			(type default)
 		)
 		(uuid "7729b16f-31a5-4dce-a7bd-cb431b46b368")
+	)
+	(wire
+		(pts
+			(xy 116.84 182.88) (xy 119.38 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e5c63eb-9332-4cdb-812f-f10a9e52da83")
 	)
 	(wire
 		(pts
@@ -5057,6 +5087,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 167.64) (xy 144.78 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b223e577-693f-475f-abae-039c7bab6687")
+	)
+	(wire
+		(pts
 			(xy 88.9 114.3) (xy 88.9 116.84)
 		)
 		(stroke
@@ -5097,6 +5137,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 129.54) (xy 231.14 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b70115b5-6281-4f42-bfd2-ff1121073dc8")
+	)
+	(wire
+		(pts
 			(xy 238.76 64.77) (xy 241.3 64.77)
 		)
 		(stroke
@@ -5114,6 +5164,26 @@
 			(type default)
 		)
 		(uuid "bb5e7d0a-6460-47a8-8ac9-62dc44f83054")
+	)
+	(wire
+		(pts
+			(xy 142.24 180.34) (xy 144.78 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb8cd8b5-5857-452c-b4c4-3801715f952f")
+	)
+	(wire
+		(pts
+			(xy 142.24 165.1) (xy 144.78 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4408e8-91df-41b0-a51a-6e6429d152b4")
 	)
 	(wire
 		(pts
@@ -5204,6 +5274,16 @@
 			(type default)
 		)
 		(uuid "d9417145-f77e-4c55-838a-a4d2b610fde6")
+	)
+	(wire
+		(pts
+			(xy 116.84 180.34) (xy 119.38 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db7408ca-71c8-4385-8f73-e6de717b20c5")
 	)
 	(wire
 		(pts
@@ -5304,6 +5384,16 @@
 			(type default)
 		)
 		(uuid "f0a3dbb1-07ce-46c0-9b33-35c051f8cd62")
+	)
+	(wire
+		(pts
+			(xy 116.84 165.1) (xy 119.38 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1fe8fdb-d970-4757-a693-0477a6284672")
 	)
 	(wire
 		(pts
@@ -5435,6 +5525,26 @@
 		)
 		(uuid "10ddb5db-25c6-42c7-95e2-a59e0e0c8f98")
 	)
+	(label "GPIO18"
+		(at 144.78 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12f8d964-3dd7-42da-9d97-066dd77882dd")
+	)
+	(label "EN"
+		(at 116.84 180.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "206c85ab-cc2b-4f3c-a66d-ee4915537972")
+	)
 	(label "SCL"
 		(at 200.66 67.31 180)
 		(effects
@@ -5464,6 +5574,16 @@
 			(justify left bottom)
 		)
 		(uuid "322215c6-7afd-4cc3-a4f6-b0f1f810c216")
+	)
+	(label "BOOT"
+		(at 116.84 182.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "34579a2a-ee4c-4673-bf10-ac3793ba86f6")
 	)
 	(label "CS_SD"
 		(at 228.6 137.16 0)
@@ -5545,6 +5665,16 @@
 		)
 		(uuid "51521b85-a279-4f13-95e9-37bb8ac53a8c")
 	)
+	(label "GPIO8"
+		(at 144.78 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "57d84f66-b8ff-417e-8fb9-b3b183037281")
+	)
 	(label "CS_SD"
 		(at 163.83 62.23 0)
 		(effects
@@ -5565,7 +5695,7 @@
 		)
 		(uuid "602625f8-31a4-4f1e-8953-4d722b3cec7c")
 	)
-	(label "DTS"
+	(label "DTR"
 		(at 104.14 71.12 0)
 		(effects
 			(font
@@ -5665,6 +5795,16 @@
 		)
 		(uuid "9b371643-dce6-4a6f-8013-63bd147031e5")
 	)
+	(label "DTR"
+		(at 144.78 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9fb2b27c-d694-46ec-b73c-7b2cddd2125d")
+	)
 	(label "MISO_DI"
 		(at 58.42 160.02 180)
 		(effects
@@ -5715,6 +5855,16 @@
 		)
 		(uuid "c0fcd95b-335b-49b4-92dd-faebf816442b")
 	)
+	(label "RTS"
+		(at 144.78 167.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c41ff979-09eb-4c03-8352-1c49d9f2ed01")
+	)
 	(label "SCLK"
 		(at 163.83 52.07 0)
 		(effects
@@ -5745,6 +5895,16 @@
 		)
 		(uuid "c8a75c86-f7d6-4ea9-b6e2-db44d86754cc")
 	)
+	(label "SCL"
+		(at 116.84 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "db76d606-f4a8-4769-a2a8-9fadae3053a1")
+	)
 	(label "MISO_DO"
 		(at 41.91 162.56 180)
 		(effects
@@ -5774,6 +5934,26 @@
 			(justify left bottom)
 		)
 		(uuid "e826f035-c795-4ea3-bee2-67f755142895")
+	)
+	(label "GPIO19"
+		(at 144.78 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ec521b44-ef07-49b0-804c-cc1fc04b1688")
+	)
+	(label "SDA"
+		(at 116.84 167.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f3c22121-340c-4424-8961-2b3f3e322514")
 	)
 	(label "RX_TX"
 		(at 104.14 66.04 0)
@@ -6504,7 +6684,7 @@
 			(uuid "31c00c70-e588-4fbe-a29b-d8664428d089")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "R13")
 					(unit 1)
@@ -6835,7 +7015,7 @@
 			(uuid "e422baae-d409-429c-8468-e3769ac101cf")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "R11")
 					(unit 1)
@@ -6970,7 +7150,7 @@
 			(uuid "ee69ca5e-9fe4-4072-b3c6-fc7be6585857")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "C11")
 					(unit 1)
@@ -7105,7 +7285,7 @@
 			(uuid "6d9ed595-b31f-4515-8522-e48ae306e997")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "#PWR018")
 					(unit 1)
@@ -7170,7 +7350,7 @@
 			(uuid "37d246fc-572c-49e7-acdd-3904602d809b")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "TP1")
 					(unit 1)
@@ -7258,7 +7438,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8154e054-edd6-4861-99a8-0bf86e3781fd")
-		(property "Reference" "LED6-RED"
+		(property "Reference" "LED6-RED1"
 			(at 120.142 109.22 0)
 			(effects
 				(font
@@ -7384,7 +7564,7 @@
 		(instances
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
-					(reference "LED6-RED")
+					(reference "LED6-RED1")
 					(unit 1)
 				)
 			)
@@ -7588,7 +7768,7 @@
 			(uuid "ca2d8036-ca0a-4df5-bf8d-28f51c6017b2")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "R12")
 					(unit 1)
@@ -7793,7 +7973,7 @@
 			(uuid "0e8ab051-7c58-4e1c-814f-7651a8556abd")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "C9")
 					(unit 1)
@@ -7867,6 +8047,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 234.95 129.54 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e63afc5-a646-4875-92bd-9f34ffbfd71a")
+		(property "Reference" "R14"
+			(at 232.41 126.746 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "50"
+			(at 237.49 126.746 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 127.762 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 234.95 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 234.95 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e55573ac-c4f0-4cb0-809c-6e7e23b741e3")
+		)
+		(pin "1"
+			(uuid "847d86e5-1f9d-48d6-92ff-78eb6b45f617")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 262.89 135.89 0)
 		(mirror y)
@@ -7933,76 +8180,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 234.95 129.54 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a49e0e33-2b2c-4e6e-be7c-21bac357a850")
-		(property "Reference" "R16"
-			(at 235.204 127.254 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "50"
-			(at 238.76 127.254 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 127.762 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 234.95 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 234.95 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c07149df-3369-4e20-97d1-ab12b2b437c0")
-		)
-		(pin "2"
-			(uuid "b955ba71-5660-4000-8b1b-4d4d5da222ec")
-		)
-		(instances
-			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
-				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
-					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LTST-C170GKT:LTST-C170GKT")
 		(at 116.84 99.06 0)
 		(mirror x)
@@ -8012,7 +8189,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab4cdeec-0d68-45f3-94a5-968e1c673441")
-		(property "Reference" "LED5-GREEN"
+		(property "Reference" "LED5-GREEN1"
 			(at 121.92 94.234 0)
 			(effects
 				(font
@@ -8138,7 +8315,7 @@
 		(instances
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
-					(reference "LED5-GREEN")
+					(reference "LED5-GREEN1")
 					(unit 1)
 				)
 			)
@@ -8219,7 +8396,7 @@
 			(uuid "89b78768-be69-4b25-8bb2-89b104ab8fc7")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "U5")
 					(unit 1)
@@ -8832,7 +9009,7 @@
 			(uuid "5504178f-2371-4e12-b726-4cec045f0cca")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "#PWR022")
 					(unit 1)
@@ -9360,7 +9537,7 @@
 			(uuid "d56ea66d-1b39-4e1f-9a1f-c90c5b34bddf")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "C10")
 					(unit 1)
@@ -9704,17 +9881,17 @@
 			)
 		)
 		(pin "BOOT" input
-			(at 141.732 165.1 0)
+			(at 119.888 180.34 180)
 			(uuid "c6671c14-7438-4ba3-a59b-88c1829995a7")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(pin "DTR" input
-			(at 141.732 167.64 0)
+			(at 141.732 165.1 0)
 			(uuid "2a6c0192-4456-4f6d-aa5c-1b3abca379da")
 			(effects
 				(font
@@ -9724,8 +9901,18 @@
 			)
 		)
 		(pin "EN" input
-			(at 141.732 170.18 0)
+			(at 119.888 182.88 180)
 			(uuid "3d1eac32-8500-4260-a953-8e3ec106b4b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO8" bidirectional
+			(at 141.732 177.8 0)
+			(uuid "89053e97-fd1b-4d2b-9d69-ce3dd3cff649")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9733,38 +9920,28 @@
 				(justify right)
 			)
 		)
-		(pin "GPIO8" bidirectional
-			(at 119.888 177.8 180)
-			(uuid "89053e97-fd1b-4d2b-9d69-ce3dd3cff649")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "GPIO18" bidirectional
-			(at 119.888 180.34 180)
+			(at 141.732 180.34 0)
 			(uuid "98442ccd-1938-4469-95a4-1fd18429511e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "GPIO19" bidirectional
-			(at 119.888 182.88 180)
+			(at 141.732 182.88 0)
 			(uuid "a3de465f-2b8e-4191-9c9b-7baf883f6bd6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "RTS" input
-			(at 141.732 172.72 0)
+			(at 141.732 167.64 0)
 			(uuid "f1ae4b0e-8278-4681-9ff2-0ec91074c42e")
 			(effects
 				(font
@@ -9774,7 +9951,7 @@
 			)
 		)
 		(pin "SCL" bidirectional
-			(at 119.888 167.64 180)
+			(at 119.888 165.1 180)
 			(uuid "66a9fe94-5251-437b-9395-3de436aca61f")
 			(effects
 				(font
@@ -9784,7 +9961,7 @@
 			)
 		)
 		(pin "SDA" bidirectional
-			(at 119.888 165.1 180)
+			(at 119.888 167.64 180)
 			(uuid "e4d4104b-9bac-458e-9d2a-b60a1983173d")
 			(effects
 				(font

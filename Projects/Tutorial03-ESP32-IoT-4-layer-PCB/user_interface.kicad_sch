@@ -2412,6 +2412,46 @@
 		(uuid "f9d8a0db-9660-4e5c-97b8-a4567d2f79c9")
 	)
 	(table
+		(column_count 1)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 0)
+		(row_heights 0)
+		(cells
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 232.156 137.668 0)
+				(size 0 0)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "b0a8c852-0752-4fd8-b811-bb738be993f1")
+			)
+		)
+	)
+	(table
 		(column_count 5)
 		(border
 			(external yes)
@@ -2859,46 +2899,6 @@
 			)
 		)
 	)
-	(table
-		(column_count 1)
-		(border
-			(external yes)
-			(header yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(separators
-			(rows yes)
-			(cols yes)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-		)
-		(column_widths 0)
-		(row_heights 0)
-		(cells
-			(table_cell ""
-				(exclude_from_sim no)
-				(at 232.156 137.668 0)
-				(size 0 0)
-				(margins 0.9525 0.9525 0.9525 0.9525)
-				(span 1 1)
-				(fill
-					(type none)
-				)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-				(uuid "b0a8c852-0752-4fd8-b811-bb738be993f1")
-			)
-		)
-	)
 	(hierarchical_label "GPIO19"
 		(shape bidirectional)
 		(at 63.5 119.38 180)
@@ -3199,7 +3199,7 @@
 			(uuid "855f3bcc-8ea5-4d57-9785-69cf5a3e0bde")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "S1")
 					(unit 1)
@@ -3582,7 +3582,7 @@
 			(uuid "60ce3583-cc0d-4f4b-b380-e0d601d2f0f0")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "#PWR044")
 					(unit 1)
@@ -3651,7 +3651,7 @@
 			(uuid "ed5c4590-3fe3-4a99-bd80-ebf66661d05b")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "C17")
 					(unit 1)
@@ -3725,7 +3725,7 @@
 			(uuid "f9e7f179-f83e-4540-974a-04db5dab3929")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "J4")
 					(unit 1)
@@ -3887,7 +3887,7 @@
 			(uuid "5c16e460-86ef-4364-92d8-85733f4ea421")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "Q2")
 					(unit 1)
@@ -4231,7 +4231,7 @@
 			(uuid "027cce7f-cc14-4da4-b915-6d95c2bf0dc8")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "J5")
 					(unit 1)
@@ -4325,7 +4325,7 @@
 			(uuid "6f89bd79-8a29-4be3-8b94-6bbc978606b7")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "Q3")
 					(unit 1)
@@ -4458,7 +4458,7 @@
 			(uuid "0899c63c-84b9-42d5-84c5-ebbcdc16e951")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "R33")
 					(unit 1)
@@ -4524,7 +4524,7 @@
 			(uuid "4bf61bb5-bbdb-4269-96d6-be4a587a59c5")
 		)
 		(instances
-			(project ""
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/733e3f64-0447-404e-8d85-895ce10e69de"
 					(reference "#PWR045")
 					(unit 1)
