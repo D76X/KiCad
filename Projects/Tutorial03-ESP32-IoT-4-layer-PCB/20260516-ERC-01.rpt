@@ -1,13 +1,7 @@
-ERC report (2026-05-16T09:07:44+0200, Encoding UTF8)
+ERC report (2026-05-16T14:50:25+0200, Encoding UTF8)
 Report includes: Errors, Warnings, Exclusions
 
 ***** Sheet /
-[footprint_link_issues]: The current configuration does not include the footprint library 'LM1117MPX-3.3'.
-    ; warning
-    @(3450 mils, 4250 mils): Symbol VR1 [LM1117MPX-3.3]
-[lib_symbol_mismatch]: Symbol 'LM1117MPX-3.3' doesn't match copy in library 'LM1117MPX-3.3'
-    ; warning
-    @(3450 mils, 4250 mils): Symbol VR1 [LM1117MPX-3.3]
 [footprint_link_issues]: Footprint 'SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm' not found in library 'Package_DFN_QFN'.
     ; warning
     @(3500 mils, 3400 mils): Symbol U4 [CP2102N-Axx-xQFN20]
@@ -59,4 +53,4 @@ Report includes: Errors, Warnings, Exclusions
 
 ***** Sheet /ESP-32-C3-02/Unser Interface/
 
- ** ERC messages: 15  Errors 0  Warnings 15
+ ** ERC messages: 13  Errors 0  Warnings 13

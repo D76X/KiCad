@@ -9367,7 +9367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:SiliconLabs_QFN-20-1EP_3x3mm_P0.5mm"
+		(property "Footprint" "ESP32 Project Footprints:QFN20P400X400X100-21N"
 			(at 120.65 113.03 0)
 			(effects
 				(font
