@@ -5504,14 +5504,13 @@
 				)
 			)
 		)
-		(property "Footprint" "LM1117MPX-3.3:VREG_LM1117MPX-3.3"
+		(property "Footprint" "ESP32 Project Footprints:VREG_LM1117MPX-3.3"
 			(at 87.63 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
