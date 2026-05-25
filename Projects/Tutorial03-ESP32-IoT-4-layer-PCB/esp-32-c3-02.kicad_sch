@@ -6714,7 +6714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "W25Q32JVSSIQ:SOIC127P790X216-8N"
+		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
 			(at 78.74 157.48 0)
 			(effects
 				(font
@@ -7181,7 +7181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:T491A"
+		(property "Footprint" "Project-Footprints:T491A"
 			(at 256.54 44.7548 0)
 			(effects
 				(font
@@ -7452,7 +7452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
+		(property "Footprint" "Project-Footprints:LEDC2012X120N"
 			(at 129.54 20.65 0)
 			(effects
 				(font
@@ -7800,7 +7800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:T491A"
+		(property "Footprint" "Project-Footprints:T491A"
 			(at 241.3 117.1448 0)
 			(effects
 				(font
@@ -7935,7 +7935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:T491A"
+		(property "Footprint" "Project-Footprints:T491A"
 			(at 72.39 34.5948 0)
 			(effects
 				(font
@@ -8203,7 +8203,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
+		(property "Footprint" "Project-Footprints:T491A"
 			(at 129.54 5.41 0)
 			(effects
 				(font
@@ -8496,7 +8496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32-C3-WROOM-02-H4:MODULE_ESP32-C3-WROOM-02-H4"
+		(property "Footprint" "Project-Footprints:MODULE_ESP32-C3-WROOM-02-H4"
 			(at 220.98 69.85 0)
 			(effects
 				(font
@@ -9367,7 +9367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:QFN20P400X400X100-21N"
+		(property "Footprint" "Project-Footprints:QFN20P400X400X100-21N"
 			(at 120.65 113.03 0)
 			(effects
 				(font
@@ -9633,7 +9633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:AMPHENOL_GSD090012SEU"
+		(property "Footprint" "Project-Footprints:AMPHENOL_GSD090012SEU"
 			(at 210.82 137.16 0)
 			(effects
 				(font

@@ -49,7 +49,16 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Integrated pressure, humidity and temperature sensor; 8-pin 2.5x2.5x0.93mm LGA"
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Bosch"
 				(at 0 0 0)
 				(effects
 					(font
@@ -59,7 +68,7 @@
 					(hide yes)
 				)
 			)
-			(property "MF" "Bosch"
+			(property "DESCRIPTION" "Integrated pressure, humidity and temperature sensor; 8-pin 2.5x2.5x0.93mm LGA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3614,7 +3623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:CUI_CMC-5042PF-AC"
+		(property "Footprint" "Project-Footprints:CUI_CMC-5042PF-AC"
 			(at 139.7 124.46 0)
 			(effects
 				(font
@@ -4051,7 +4060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BME280:PSON65P250X250X100-8N"
+		(property "Footprint" "Project-Footprints:PSON65P250X250X100-8N"
 			(at 83.82 60.96 0)
 			(effects
 				(font
@@ -4334,7 +4343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MAX4466EXK:SOT65P210X110-5N"
+		(property "Footprint" "Project-Footprints:SOT65P210X110-5N"
 			(at 228.6 124.46 0)
 			(effects
 				(font
@@ -4764,7 +4773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:TRANS_TEMT6000X01"
+		(property "Footprint" "Project-Footprints:TRANS_TEMT6000X01"
 			(at 185.42 58.42 0)
 			(effects
 				(font

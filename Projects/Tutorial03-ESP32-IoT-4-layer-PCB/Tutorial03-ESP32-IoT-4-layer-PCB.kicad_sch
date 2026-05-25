@@ -5789,7 +5789,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
+		(property "Footprint" "Project-Footprints:LEDC2012X120N"
 			(at 73.99 69.85 0)
 			(effects
 				(font
@@ -5999,7 +5999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:BELFUSE_SS-52400-002"
+		(property "Footprint" "Project-Footprints:BELFUSE_SS-52400-002"
 			(at 66.04 45.72 0)
 			(effects
 				(font
@@ -6281,7 +6281,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:T491A"
+		(property "Footprint" "Project-Footprints:T491A"
 			(at 110.7948 118.11 0)
 			(effects
 				(font
@@ -6689,7 +6689,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
+		(property "Footprint" "Project-Footprints:LEDC2012X120N"
 			(at 87.96 69.85 0)
 			(effects
 				(font
@@ -6829,7 +6829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:JST_B2B-PH-SM4-TB"
+		(property "Footprint" "Project-Footprints:JST_B2B-PH-SM4-TB"
 			(at 44.45 153.67 0)
 			(effects
 				(font
@@ -7018,7 +7018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:VREG_LM1117MPX-3.3"
+		(property "Footprint" "Project-Footprints:VREG_LM1117MPX-3.3"
 			(at 86.36 107.95 0)
 			(effects
 				(font
@@ -7427,7 +7427,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:T491A"
+		(property "Footprint" "Project-Footprints:T491A"
 			(at 65.7352 115.57 0)
 			(effects
 				(font
@@ -8746,7 +8746,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cdc92949-a004-47c0-904d-30532b4072be")
-		(property "Reference" "LED1 (RED)1"
+		(property "Reference" "LED2-RED1"
 			(at 184.658 104.14 0)
 			(effects
 				(font
@@ -8764,7 +8764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
+		(property "Footprint" "Project-Footprints:LEDC2012X120N"
 			(at 175.26 15.57 0)
 			(effects
 				(font
@@ -8872,7 +8872,7 @@
 		(instances
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
-					(reference "LED1 (RED)1")
+					(reference "LED2-RED1")
 					(unit 1)
 				)
 			)
@@ -8972,7 +8972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:LEDC2012X120N"
+		(property "Footprint" "Project-Footprints:LEDC2012X120N"
 			(at 101.93 69.85 0)
 			(effects
 				(font
@@ -9182,7 +9182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32 Project Footprints:FUSC3226X100N"
+		(property "Footprint" "Project-Footprints:FUSC3226X100N"
 			(at 133.35 134.29 0)
 			(effects
 				(font

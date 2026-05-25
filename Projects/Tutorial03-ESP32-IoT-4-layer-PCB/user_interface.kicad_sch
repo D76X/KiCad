@@ -3048,7 +3048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USLPT2819DT2TR:SW_USLPT2819DT2TR"
+		(property "Footprint" "Project-Footprints:SW_USLPT2819DT2TR"
 			(at 147.32 74.93 0)
 			(effects
 				(font
@@ -3299,14 +3299,13 @@
 				)
 			)
 		)
-		(property "Footprint" "USLPT2819DT2TR:SW_USLPT2819DT2TR"
+		(property "Footprint" "Project-Footprints:SW_USLPT2819DT2TR"
 			(at 198.12 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
