@@ -49,16 +49,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Bosch"
+			(property "Description" "Integrated pressure, humidity and temperature sensor; 8-pin 2.5x2.5x0.93mm LGA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -68,7 +59,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Integrated pressure, humidity and temperature sensor; 8-pin 2.5x2.5x0.93mm LGA"
+			(property "MF" "Bosch"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2147,6 +2138,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 66.04) (xy 68.58 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3015a3be-9d85-44cd-b6fb-f1a42a11ca8e")
+	)
+	(wire
+		(pts
 			(xy 172.72 106.68) (xy 172.72 109.22)
 		)
 		(stroke
@@ -2254,6 +2255,16 @@
 			(type default)
 		)
 		(uuid "5a0cbc92-4daf-47c4-b8e4-78f3b59fa491")
+	)
+	(wire
+		(pts
+			(xy 53.34 74.93) (xy 53.34 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a45568e-f0c0-4921-83fe-834ad5733692")
 	)
 	(wire
 		(pts
@@ -2477,6 +2488,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 66.04) (xy 53.34 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b75ae88-b891-4c0b-b381-ede1ab3a95df")
+	)
+	(wire
+		(pts
 			(xy 172.72 109.22) (xy 172.72 110.49)
 		)
 		(stroke
@@ -2494,16 +2515,6 @@
 			(type default)
 		)
 		(uuid "a66f3c5a-aa44-4930-aaf0-58070ef11e79")
-	)
-	(wire
-		(pts
-			(xy 64.77 66.04) (xy 64.77 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a85dc9d5-6144-41ac-80a6-b7913444be2c")
 	)
 	(wire
 		(pts
@@ -2554,16 +2565,6 @@
 			(type default)
 		)
 		(uuid "b7ff611b-57de-4c21-9859-e21e05f933ae")
-	)
-	(wire
-		(pts
-			(xy 68.58 66.04) (xy 64.77 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bad52b07-262a-4c31-ba98-0335b31e4e54")
 	)
 	(wire
 		(pts
@@ -3530,6 +3531,76 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 53.34 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ea52e0d-1fbe-421e-808b-0316f7f141c7")
+		(property "Reference" "R35"
+			(at 55.88 69.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4K7"
+			(at 55.88 72.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 51.562 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 53.34 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8a90454e-2ea1-407a-935d-9f27f169fc51")
+		)
+		(pin "1"
+			(uuid "a1d01837-06f5-4861-9934-fafa4a089342")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8/82f04113-e066-48bd-98ff-7ce17d570a0d"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 172.72 114.3 0)
 		(mirror y)
 		(unit 1)
@@ -4477,7 +4548,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 64.77 68.58 0)
+		(at 53.34 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4486,7 +4557,7 @@
 		(fields_autoplaced yes)
 		(uuid "c17bbb55-e5eb-42a7-8dd9-c4a0f5699d68")
 		(property "Reference" "#PWR035"
-			(at 64.77 74.93 0)
+			(at 53.34 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4495,7 +4566,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 73.66 0)
+			(at 53.34 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4503,7 +4574,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 68.58 0)
+			(at 53.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4512,7 +4583,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 68.58 0)
+			(at 53.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4521,7 +4592,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 68.58 0)
+			(at 53.34 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)

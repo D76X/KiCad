@@ -3969,7 +3969,7 @@
 		(at 262.89 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "24e684dd-14dd-4899-b444-a51fd71bfe94")
+		(uuid "1777109d-cabd-4196-82e1-bf06f500fd82")
 	)
 	(junction
 		(at 35.56 76.2)
@@ -3990,12 +3990,6 @@
 		(uuid "3de48370-cad4-483b-a1d9-79cf05faac15")
 	)
 	(junction
-		(at 262.89 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3fe79eec-3970-4266-9659-c26648387b62")
-	)
-	(junction
 		(at 59.69 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4008,22 +4002,10 @@
 		(uuid "60a8626a-b343-453a-9d7e-67c06f3ba491")
 	)
 	(junction
-		(at 29.21 157.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "721ca5d5-9b1e-42e6-bde5-4835ddb110f2")
-	)
-	(junction
 		(at 232.41 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7233b579-744f-4229-85fa-5219bc86c01f")
-	)
-	(junction
-		(at 229.87 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "75380b08-906d-43af-af65-7b4a601a1f89")
 	)
 	(junction
 		(at 237.49 118.11)
@@ -4038,10 +4020,28 @@
 		(uuid "829386f1-257f-4407-b889-6f908d8ed786")
 	)
 	(junction
+		(at 262.89 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a952b48c-2330-45d9-aec6-3dc795e1a440")
+	)
+	(junction
 		(at 242.57 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3b12837-07f9-4654-8d6c-52f79ae68ed3")
+	)
+	(junction
+		(at 29.21 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c675c78f-d55f-4024-a680-cf252314babc")
+	)
+	(junction
+		(at 229.87 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc786abc-4eac-459e-88ac-cd560ac8ece6")
 	)
 	(junction
 		(at 271.78 52.07)
@@ -4453,6 +4453,16 @@
 	)
 	(wire
 		(pts
+			(xy 257.81 132.08) (xy 262.89 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46718689-caa1-4b33-8e9d-6950bebdc974")
+	)
+	(wire
+		(pts
 			(xy 101.6 101.6) (xy 104.14 101.6)
 		)
 		(stroke
@@ -4653,6 +4663,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 152.4) (xy 29.21 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c153a74-db7d-4ca2-8f36-615b04b6d7a7")
+	)
+	(wire
+		(pts
 			(xy 140.97 165.1) (xy 144.78 165.1)
 		)
 		(stroke
@@ -4660,16 +4680,6 @@
 			(type default)
 		)
 		(uuid "6caa367d-3089-4108-8e7d-35aef0026558")
-	)
-	(wire
-		(pts
-			(xy 29.21 140.97) (xy 29.21 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ed4c396-866f-4ad7-9d49-a15021d40438")
 	)
 	(wire
 		(pts
@@ -5073,16 +5083,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 132.08) (xy 262.89 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0066c22-6ffc-4d0a-89a7-127cc898802d")
-	)
-	(wire
-		(pts
 			(xy 58.42 152.4) (xy 60.96 152.4)
 		)
 		(stroke
@@ -5190,6 +5190,16 @@
 			(type default)
 		)
 		(uuid "cb70f46a-3e97-4a6c-961d-878e9f7a5d67")
+	)
+	(wire
+		(pts
+			(xy 229.87 132.08) (xy 250.19 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbf0d155-9ab7-41b2-96e5-1f4df8d9a1cc")
 	)
 	(wire
 		(pts
@@ -5383,6 +5393,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 140.97) (xy 29.21 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f057c364-0173-4c6c-939e-943b0561bf31")
+	)
+	(wire
+		(pts
 			(xy 161.29 41.91) (xy 163.83 41.91)
 		)
 		(stroke
@@ -5449,7 +5469,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "f7b352cf-484f-4e52-9110-18ae0dc0df54")
+		(uuid "f7a9cf4c-0e2b-46db-b0b3-51bc5e4899b9")
 	)
 	(wire
 		(pts
@@ -6613,6 +6633,76 @@
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 29.21 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a3cdae2-126d-4190-9288-4e03d1f3a075")
+		(property "Reference" "R17"
+			(at 31.75 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4K7"
+			(at 31.75 149.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 27.432 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.21 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 29.21 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "62d3c779-bc85-4c55-97ed-5fc65a68822a")
+		)
+		(pin "1"
+			(uuid "8ecd0f3e-61df-4960-ac33-d42d80bbedeb")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -8170,6 +8260,73 @@
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 254 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ab210f0c-b482-40d9-a940-415b200a7f9f")
+		(property "Reference" "R21"
+			(at 251.714 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4K7"
+			(at 257.302 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 254 133.858 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 254 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "91876c16-3dd8-4216-b457-893de9432a08")
+		)
+		(pin "1"
+			(uuid "2ddcd5ec-dd26-4b07-a00e-80547dabb73b")
+		)
+		(instances
+			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
+				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
+					(reference "R21")
 					(unit 1)
 				)
 			)
