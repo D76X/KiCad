@@ -8445,11 +8445,11 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "66d419e8-ae79-4881-9dc4-a0b1fb0dc2cc")
-		(at 211.6325 89.84)
+		(at 213 92.0875 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R19"
-			(at 0 -1.65 0)
+			(at 0 -1.65 90)
 			(layer "F.SilkS")
 			(uuid "977aaf05-66d7-436e-beee-2eed84f4980e")
 			(effects
@@ -8460,7 +8460,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.65 0)
+			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "27e82181-6039-4ba0-9adc-cc41f60b4d01")
 			(effects
@@ -8471,7 +8471,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "64117a3b-ee18-44a9-ae92-b7fab065946d")
@@ -8483,7 +8483,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29524d08-6852-4026-a7c2-2d45975da9b6")
@@ -8500,16 +8500,6 @@
 		(sheetfile "esp-32-c3-02.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.227064 -0.735)
-			(end 0.227064 -0.735)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "582b3315-1edc-441b-b0d3-46b3b57a0ad7")
-		)
-		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
 			(stroke
@@ -8518,6 +8508,16 @@
 			)
 			(layer "F.SilkS")
 			(uuid "7788a92f-4cc0-4e56-b310-fe4a7e249ea1")
+		)
+		(fp_line
+			(start -0.227064 -0.735)
+			(end 0.227064 -0.735)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "582b3315-1edc-441b-b0d3-46b3b57a0ad7")
 		)
 		(fp_rect
 			(start -1.68 -0.95)
@@ -8542,7 +8542,7 @@
 			(uuid "36e573d8-fd9c-4132-9870-26f18409518b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "5356ee52-16f5-4488-b376-277c89ae6888")
 			(effects
@@ -8553,7 +8553,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.9125 0)
+			(at -0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.243902)
@@ -8562,7 +8562,7 @@
 			(uuid "d20da1fc-d7ee-4178-8485-f8bb596227c8")
 		)
 		(pad "2" smd roundrect
-			(at 0.9125 0)
+			(at 0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.243902)
