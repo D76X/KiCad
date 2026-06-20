@@ -7524,7 +7524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8154e054-edd6-4861-99a8-0bf86e3781fd")
-		(property "Reference" "LED6-RED1"
+		(property "Reference" "LED6R1"
 			(at 120.142 109.22 0)
 			(effects
 				(font
@@ -7650,7 +7650,7 @@
 		(instances
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
-					(reference "LED6-RED1")
+					(reference "LED6R1")
 					(unit 1)
 				)
 			)
@@ -8342,7 +8342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab4cdeec-0d68-45f3-94a5-968e1c673441")
-		(property "Reference" "LED5-GREEN1"
+		(property "Reference" "LED5G1"
 			(at 121.92 94.234 0)
 			(effects
 				(font
@@ -8360,7 +8360,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Project-Footprints:T491A"
+		(property "Footprint" "Project-Footprints:LEDC2012X120N"
 			(at 129.54 5.41 0)
 			(effects
 				(font
@@ -8468,7 +8468,7 @@
 		(instances
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8/088a6c03-a50a-4238-8650-576912e1e4b8"
-					(reference "LED5-GREEN1")
+					(reference "LED5G1")
 					(unit 1)
 				)
 			)
