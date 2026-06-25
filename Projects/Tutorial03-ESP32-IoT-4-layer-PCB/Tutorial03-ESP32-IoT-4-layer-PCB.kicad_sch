@@ -8532,7 +8532,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cdc92949-a004-47c0-904d-30532b4072be")
-		(property "Reference" "LED2-RED1"
+		(property "Reference" "LED2R1"
 			(at 184.658 104.14 0)
 			(effects
 				(font
@@ -8658,7 +8658,7 @@
 		(instances
 			(project "Tutorial03-ESP32-IoT-4-layer-PCB"
 				(path "/49253bfd-5dbd-467b-ba3c-7c0c524516c8"
-					(reference "LED2-RED1")
+					(reference "LED2R1")
 					(unit 1)
 				)
 			)
