@@ -4,6 +4,16 @@
 
 [Peter Dalmaris futureshocked : KLP-5e-ESP32-sensor-board](https://github.com/futureshocked/KLP-5e-ESP32-sensor-board)  
 
+## Suggested Routing Plan for a 4-layer board
+
+1. Copper zones for GND
+2. Copper zones for power
+3. Differential pairs
+4. Clock and high-speed signals
+5. Power traces
+6. All other signals
+7. Optimization
+
 ---
 
 ## Parts
