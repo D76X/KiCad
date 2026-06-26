@@ -20458,6 +20458,28 @@
 		(layer "Edge.Cuts")
 		(uuid "e207554d-8cdb-4e51-99e2-824b1b06c938")
 	)
+	(zone
+		(net 1)
+		(net_name "GND")
+		(layer "In2.Cu")
+		(uuid "0ee3b3e1-0fea-4b08-a728-629f05e48a89")
+		(name "GND")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 86.8 60.2) (xy 86.8 120.2) (xy 186.2 120.2) (xy 186.6 60.2)
+			)
+		)
+	)
 	(group ""
 		(uuid "01ab49c3-5576-457f-aa86-bdc9fda96691")
 		(locked yes)
