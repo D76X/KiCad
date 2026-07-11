@@ -2043,16 +2043,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 66.04) (xy 72.39 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23542bb8-9183-4e6b-85d9-6c23f9176ce4")
-	)
-	(wire
-		(pts
 			(xy 142.24 138.43) (xy 148.59 138.43)
 		)
 		(stroke
@@ -2100,16 +2090,6 @@
 			(type default)
 		)
 		(uuid "335eb728-743b-404a-9244-44b43dbbfe9c")
-	)
-	(wire
-		(pts
-			(xy 60.96 63.5) (xy 72.39 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c073714-1c8e-46b5-a23c-d0601c368f0a")
 	)
 	(wire
 		(pts
@@ -2343,6 +2323,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 66.04) (xy 72.39 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cf79abc-ed4d-48b2-9ee3-fc3e0e1142cd")
+	)
+	(wire
+		(pts
 			(xy 142.24 124.46) (xy 142.24 138.43)
 		)
 		(stroke
@@ -2560,6 +2550,16 @@
 			(type default)
 		)
 		(uuid "f9d8a0db-9660-4e5c-97b8-a4567d2f79c9")
+	)
+	(wire
+		(pts
+			(xy 60.96 63.5) (xy 72.39 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbae94d9-3cef-4417-bd5e-7e393df35053")
 	)
 	(table
 		(column_count 5)
@@ -3143,7 +3143,7 @@
 	)
 	(hierarchical_label "SCL"
 		(shape bidirectional)
-		(at 60.96 66.04 180)
+		(at 60.96 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3165,7 +3165,7 @@
 	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
-		(at 60.96 63.5 180)
+		(at 60.96 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
