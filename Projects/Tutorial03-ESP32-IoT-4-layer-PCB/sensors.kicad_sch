@@ -2044,6 +2044,26 @@
 		)
 		(uuid "a7f41202-8820-4743-bca7-d27d5506fefd")
 	)
+	(text_box ""
+		(exclude_from_sim no)
+		(at 125.73 83.82 0)
+		(size 152.4 75.565)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "c02d4860-9d71-4ec0-8a03-f71b854b43dd")
+	)
 	(junction
 		(at 262.89 132.08)
 		(diameter 0)

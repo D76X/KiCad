@@ -4091,7 +4091,7 @@
 		)
 		(uuid "4706bf55-f7ee-49e8-8e94-56037b822124")
 	)
-	(text "Power INdicator LED"
+	(text "Power Indicator LED"
 		(exclude_from_sim no)
 		(at 166.37 119.888 0)
 		(effects
