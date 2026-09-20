@@ -10398,7 +10398,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Project-Footprints:QFN20P400X400X100-21N"
+		(property "Footprint" "Project-Footprints:QFN-20_L3.0-W3.0-P0.50-BL-EP1.7_EFM8BB21F16G"
 			(at 120.65 113.03 0)
 			(hide yes)
 			(show_name no)
