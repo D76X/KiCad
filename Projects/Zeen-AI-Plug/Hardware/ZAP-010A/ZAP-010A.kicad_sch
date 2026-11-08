@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "26f95b1a-35f9-4120-9e9d-d936864a983e")
+	(paper "A3")
+	(title_block
+		(title "ZEEN_AI_PLUG")
+		(date "2026-11-08")
+		(rev "1.00")
+		(company "New Thinking Technologies")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
