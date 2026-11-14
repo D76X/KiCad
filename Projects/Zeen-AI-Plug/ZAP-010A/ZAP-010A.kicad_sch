@@ -2,8 +2,14 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 4bdd5c0c-c6b4-4919-a2a9-8a905337cf27)
+	(uuid "4bdd5c0c-c6b4-4919-a2a9-8a905337cf27")
 	(paper "A4")
+	(title_block
+		(title "ZEEN_AI_PLUG")
+		(date "2026-11-14")
+		(rev "1.00A")
+		(company "New Thinking Technologies")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
