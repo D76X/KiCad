@@ -1761,7 +1761,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0.1uF"
 			(at 48.26 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1936,7 +1936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "220uF"
 			(at 107.95 71.5009 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2098,7 +2098,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4K7"
 			(at 124.46 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2179,7 +2179,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Varistor"
+		(property "Value" "10D56K"
 			(at 36.83 68.3868 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2402,7 +2402,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1M"
 			(at 63.5 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
